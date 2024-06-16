@@ -15,8 +15,6 @@ Here, we'll explore some basic Markdown syntax to help you begin crafting your f
 
 **Markdown Code**
 
-Copy
-
 ````
 # A first-level heading
 ## A second-level heading
@@ -38,9 +36,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 + Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
   - Marker character change forces a new list to start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
+    * Item 1
+    + Item 2
 + Very easy!
 
 ## Images
@@ -78,8 +75,8 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 * Create a list by starting a line with `+`, `-`, or `*`
 * Sub-lists are made by indenting 2 spaces:
   * Marker character change forces a new list to start:
-    * Ac tristique libero volutpat at.
-    * Facilisis in pretium nisl aliquet.
+    * Item 1&#x20;
+    * Item 2&#x20;
 * Very easy!
 
 **Images**
