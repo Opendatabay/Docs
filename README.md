@@ -1,2 +1,2 @@
-# Docs
-Opendatabay Documentation Portal
+# Opendatabay Marketplace
+
