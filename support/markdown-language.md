@@ -59,7 +59,7 @@ Learn more about markdown at **[Opendatabay Documents](https://docs.opendatabay.
 
 **A third-level heading**
 
-Offsetdata Collection description supports Markdown language, please read the documentation to apply it correctly
+This description supports Markdown language, please read the documentation to apply it correctly
 
 **This is bold text**
 
@@ -84,7 +84,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 **Images**
 
-![](https://2435ghj424g6j.gitbook.io/\~gitbook/image?url=https%3A%2F%2Flh3.googleusercontent.com%2FOYN5B\_SGg9auoUOGRq3hrTpi32f4KQ9DrQE\_XMenjT8WvWEfdc76M-7l1f-VoWC2KlBadOViashEJ-r4YQtGAdhQwrA%3Ds120\&width=768\&dpr=4\&quality=100\&sign=a52dd372a4f9d32468e86999af33e5a1ab98725906ee113d4d28be67aa11af59)Minion
+![Logo](https://static.opendatabay.com/logos/Opendatabay\_logo\_blue\_noBg.png)
 
 ***
 
@@ -92,7 +92,7 @@ Explore further information about Markdown in the [Markdown Guide](https://www.m
 
 #### Support and Feedback <a href="#support-and-feedback" id="support-and-feedback"></a>
 
-If you encounter any issues, have questions, or wish to provide feedback about the Offsetdata Collection View feature, please reach out to our support team at [support@offsetdata.com](mailto:support@offsetdata.com).
+If you encounter any issues, have questions, or wish to provide feedback about the Opendatabay Profile or Collection View feature, please reach out to our support team at [support@opendatabay.com](mailto:support@opendatabay.com).
 
 We appreciate your feedback and are here to help with any inquiries you may have.
 
