@@ -11,37 +11,50 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
 1. **Name**
    * **Field**: Collection Name (**Example**: My Collection Name)
 2. **Collection Category**
-   * **Field**: Select the most appropriate category for your collection from the following list:
-     * Aerospace & Aviation
-     * Agriculture & Farming
-     * Animal Behavior & Conservation
-     * Art & Digital Creations
-     * Automotive & Traffic Patterns
-     * Biodiversity & Conservation
-     * Consumer Electronics Usage
-     * Cultural & Historical Records
-     * E-commerce & Online Transactions
-     * Entertainment & Media Consumption
-     * Environmental Monitoring
-     * Fashion & Apparel Trends
-     * Food & Beverage Consumption
-     * Government & Civic Records
-     * Hospitality & Tourism
-     * Human Resources & Employment Data
-     * Legal & Legislation Data
-     * Local & Global Weather Patterns
-     * Logistics & Fulfillment Data
-     * Marine & Aquatic Data
-     * Natural Resources & Mining
-     * Non-Profit & Philanthropy Activities
-     * Public Health & Epidemiology
-     * Public Safety & Security
-     * Renewable Energy Sources
-     * Retail & Consumer Behavior
-     * Space & Astronomy
-     * Sports & Recreation
-     * Telecommunications & Network Data
-     * Urban Planning & Infrastructure
+   *   **Field**: Select the most appropriate category for your collection from the following list:
+
+
+
+       ```xml
+           "Aerospace & Aviation",
+           "Agriculture & Farming",
+           "Animal Behavior & Conservation",
+           "Art & Digital Creations",
+           "Automotive & Traffic Patterns",
+           "Biodiversity & Conservation",
+           "Consumer Electronics Usage",
+           "Cultural & Historical Records",
+           "E-commerce & Online Transactions",
+           "Entertainment & Media Consumption",
+           "Environmental Monitoring",
+           "Fashion & Apparel Trends",
+           "Food & Beverage Consumption",
+           "Government & Civic Records",
+           "Hospitality & Tourism",
+           "Human Resources & Employment Data",
+           "Legal & Legislation Data",
+           "Local & Global Weather Patterns",
+           "Logistics & Fulfillment Data",
+           "Marine & Aquatic Data",
+           "Natural Resources & Mining",
+           "Non-Profit & Philanthropy Activities",
+           "Public Health & Epidemiology",
+           "Public Safety & Security",
+           "Renewable Energy Sources",
+           "Retail & Consumer Behavior",
+           "Space & Astronomy",
+           "Sports & Recreation",
+           "Telecommunications & Network Data",
+           "Urban Planning & Infrastructure",
+           "Software and Technology",
+           "Mobile Applications, Games, and Usage",
+           "Social Media and Networking",
+           "Data Science and Analytics",
+           "Machine Learning and AI",
+           "Website Analytics & User Experience",
+           "Synthetic Data Generation",
+           "Reviews & Ratings",
+       ```
 3. **Related Searches**
    * **Field**: Search Tags (**Example**: Tourism, Healthcare, Records, Non-PII, Public, Statistic, Report)
 4. **Collection Promo Image**
