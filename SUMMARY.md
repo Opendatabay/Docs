@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Opendatabay Marketplace](README.md)
+* [Open Data Marketplace](README.md)
 
 ## General
 
