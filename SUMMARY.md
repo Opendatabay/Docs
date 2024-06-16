@@ -2,10 +2,6 @@
 
 * [Open Data Marketplace](README.md)
 
-## General
-
-* [Page 1](general/page-1.md)
-
 ## Marketplace
 
 * [Data Providers](marketplace/data-providers.md)
