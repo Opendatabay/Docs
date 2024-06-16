@@ -12,6 +12,7 @@
 
 ## Support
 
+* [Profile Setup](support/profile-setup.md)
 * [Markdown Language](support/markdown-language.md)
 
 ## Links
