@@ -20,5 +20,5 @@
 
 ## Data Licenses
 
-* [Page](data-licenses/page.md)
+* [CC0 1.0 DEED](data-licenses/cc0-1.0-deed.md)
 * [ODC](data-licenses/odc.md)
