@@ -26,9 +26,9 @@ Welcome to Opendatabay, your one-stop shop for high-quality data in the AI gold 
 
 Opendatabay is dedicated to breaking down data silos and making high-quality datasets accessible to researchers, developers, and businesses. Our platform connects data buyers and sellers, providing a marketplace where data can be easily listed, discovered, and purchased. Here's what sets us apart:
 
-* **Data Quality**: We address the common pain points of poor-quality data and complex exchange processes. Our marketplace ensures data integrity and verifiability, making it a reliable source for all your data needs.
+* **Data Quality**: We address the common pain points of poor-quality data and complex exchange processes. Our [marketplace](broken-reference) ensures data integrity and verifiability, making it a reliable source for all your data needs.
 * **Trust and Transparency**: In an environment where untrusted data can drive buyers and sellers away, we offer a trusted platform with clear, traceable data provenance.
 * **Simplicity and Efficiency**: Opendatabay is simple to use, whether you're listing data for sale or looking to purchase datasets. Our user-friendly interface ensures a smooth experience for everyone involved.
 * **Monetization Opportunities**: We provide effective tools for data monetization, enabling data sellers to generate revenue while maintaining the quality and accessibility of their datasets.
 
-Join us at Opendatabay and become a part of a community that values high-quality data and innovation. Together, we can harness the power of data to fuel AI-driven decision-making and drive forward a data-rich future.
+Join us at [Opendatabay](https://opendatabay.com) and become a part of a community that values high-quality data and innovation. Together, we can harness the power of data to fuel AI-driven decision-making and drive forward a data-rich future.
