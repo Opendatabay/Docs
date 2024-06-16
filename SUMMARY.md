@@ -9,6 +9,8 @@
 ## Support
 
 * [Profile Setup](support/profile-setup.md)
+* [Collection Setup](support/collection-setup.md)
+* [Upload Collection](support/upload-collection.md)
 * [Markdown Language](support/markdown-language.md)
 
 ## Links
