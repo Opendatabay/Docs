@@ -4,9 +4,9 @@ description: The Open Data Commons (ODC)
 
 # ODC
 
-[https://opendatacommons.org/licenses/dbcl/1-0/](https://opendatacommons.org/licenses/dbcl/1-0/)
+{% embed url="https://opendatacommons.org/licenses/dbcl/1-0/" %}
 
-#### Database Contents License (DbCL) v1.0 <a href="#database-contents-license-dbcl-v1.0" id="database-contents-license-dbcl-v1.0"></a>
+Database Contents License (DbCL) v1.0
 
 **Disclaimer**
 
