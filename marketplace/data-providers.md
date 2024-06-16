@@ -26,14 +26,12 @@ To get started with your data provider profile on Opendatabay, follow these step
 
 **1. Basic Information**
 
-* **Provider Name**: Enter the name of your organization or data provider.
+* **Provider Name**: Enter the name of your organization or data provider. (Max 20 Characters)
 * **Description**: Provide a comprehensive description of your organization, the type of data you offer, and any relevant background information. You can enhance your description using [Markdown](../support/markdown-language.md) (.MD) language, which allows for better formatting and more options. For example, you can include:
   * **Headings**: Use `#` for headings.
   * **Bold and Italics**: Use `**bold**` or `_italic_` for emphasis.
   * **Lists**: Create bullet points with `-` or `*`.
   * **Links**: Add hyperlinks using `[text](url)`.
-
-
 
 **2. Visuals**
 
@@ -42,13 +40,16 @@ To get started with your data provider profile on Opendatabay, follow these step
 
 **3. Location and Contact Details**
 
-* **Location**: Specify the geographic location of your organization.
-* **Contact Information**: Provide contact details for assistance, licensing inquiries, and dataset requests. Include an email address, phone number, and any other relevant contact methods.
+* **Location**: Specify the geographic location of your organization.&#x20;
+* **Contact Information**: Provide contact details for assistance, licensing inquiries, and dataset requests.&#x20;
+  * Email address
+  * Website
+  * Social Media. (LinkedIn, Twitter (X), Facebook, GitHub
 
 **4. Profile Details**
 
 * **Join Date**: Automatically set when you create your profile.
-* **Statistics**: Keep track of and display key statistics such as:
+* **Statistics**: Automatically keeps track of key statistics such as:
   * Number of Data Collections
   * Total Downloads
   * Sales This Month
