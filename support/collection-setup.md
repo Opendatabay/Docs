@@ -4,8 +4,6 @@ description: Setting Up Your Collection on Opendatabay
 
 # Collection Setup
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Collection Page Setup Guides</p></figcaption></figure>
-
 To effectively set up your data collection page on Opendatabay, ensure all required fields are completed. Here’s a guide to help you through the process:
 
 **Required Fields**
@@ -57,7 +55,7 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
 
 **About**: Provide a detailed description of your data collection.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
 
 * **Guidance**: The description can be written in Markdown language (.MD) for better formatting and more options.
   *   **Example**:
@@ -85,15 +83,25 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
        * **Records**: Number of records, Lines (e.g., 27 million)
        * **Lines**: \[If applicable, specify any additional details about the dataset's structure or size]
        * **Updated**: Date of last update ( e.g., dd/mm/yyyy)
+       * **Purchase type**: Type of purchase ( eg., One-off purchase, API, Subscription)
 7. **Price**
 
 * **Field**: Price in GBP (**Example**: £9999)
-
-
 
 #### Final Steps
 
 1. **Review All Information**: Ensure all fields are accurately filled out and all required information fields are populated.
 2. **Save**: Once reviewed, save your collection page&#x20;
+
+## Preview Collection card, description
+
+Your collection card will be available to public on the marketplace page
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
+
+Additionally, newly listed collection cards will be added to provider's profile.\
+
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Collection Card on Provider's Profile</p></figcaption></figure>
 
 By following these steps, you will create a detailed, visually appealing, and professional data collection page that attracts buyers and facilitates smooth transactions on Opendatabay.
