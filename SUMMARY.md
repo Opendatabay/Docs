@@ -8,11 +8,11 @@
 
 ## Marketplace
 
-* [Page 1](marketplace/page-1.md)
+* [Data Providers](marketplace/data-providers.md)
 
-## AI Model
+## Support
 
-* [Page 2](ai-model/page-2.md)
+* [Markdown Language](support/markdown-language.md)
 
 ## Links
 
