@@ -4,11 +4,7 @@ description: The Open Data Commons (ODC)
 
 # ODC
 
-## ODC
-
-
-
-[![Logo](https://opendatacommons.org/favicon.ico)Database Contents License (DbCL) v1.0 — Open Data Commons: legal tools for open data](https://opendatacommons.org/licenses/dbcl/1-0/)
+[https://opendatacommons.org/licenses/dbcl/1-0/](https://opendatacommons.org/licenses/dbcl/1-0/)
 
 #### Database Contents License (DbCL) v1.0 <a href="#database-contents-license-dbcl-v1.0" id="database-contents-license-dbcl-v1.0"></a>
 
