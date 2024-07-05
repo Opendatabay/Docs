@@ -4,7 +4,7 @@ description: >-
   tools, and resources. Please find the relevant links below:
 ---
 
-# Important Link
+# Important Links
 
 Main Opendatabay Landing Page
 
@@ -25,8 +25,8 @@ Stay connected with us through our social media channels:
     * [Medium](https://medium.com/@opendatabay)
     * [Instagram](https://www.instagram.com/opendatabay/)
     * [LinkedIn](https://www.linkedin.com/company/opendatabay)
-    * [Facebook](https://www.facebook.com/Opendatabay)
-    * [Twitter](https://twitter.com/Open\_databay)
+    * [Facebook](https://www.facebook.com/Opendatabaycom)
+    * [Twitter](https://twitter.com/Open_databay)
     * [YouTube](https://www.youtube.com/@opendatabay)
     * [Reddit](https://www.reddit.com/r/Opendatabay/)
 
