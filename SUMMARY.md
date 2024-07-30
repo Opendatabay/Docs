@@ -5,6 +5,7 @@
 ## Marketplace
 
 * [Data Providers](marketplace/data-providers.md)
+* [Purchase Types](marketplace/purchase-types.md)
 
 ## Support
 
