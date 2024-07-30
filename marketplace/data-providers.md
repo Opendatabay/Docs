@@ -10,7 +10,7 @@ description: opendatabay.com/data-providers
 
 Data providers play a crucial role in the Opendatabay ecosystem by supplying high-quality datasets to the marketplace. Each provider has a dedicated profile page with their logo, banner, location, join date, and a comprehensive description.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Dta provider profile page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Data provider profile page</p></figcaption></figure>
 
 Providers also share statistics like the number of data collections available, total downloads, and recent sales. This transparency helps build trust and facilitates informed purchasing decisions.&#x20;
 
