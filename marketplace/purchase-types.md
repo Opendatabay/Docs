@@ -1,4 +1,5 @@
-# Opendatabay Marketplace - Purchase Types
+# Opendatabay Marketplace - Data Delivery Methods
+
 
 Welcome to the Opendatabay Marketplace! Our platform offers multiple ways to purchase and access high-quality datasets, catering to various data consumption needs. Below are the different types of purchasing options available on our marketplace:
 
