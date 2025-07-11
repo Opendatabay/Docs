@@ -1,3 +1,8 @@
+---
+description: Opendatabay Marketplace - Data Delivery Methods
+keywords: Opendatabay, Marketplace, Data Delivery, Downloadable Package, Data Stream,
+---
+
 # Opendatabay Marketplace - Data Delivery Methods
 
 
@@ -42,7 +47,7 @@ Welcome to the Opendatabay Marketplace! Our platform offers multiple ways to pur
 
 ---
 
-To explore collections and begin purchasing, please visit the [Opendatabay Marketplace](https://opendatabay.com/).
+To explore collections and begin purchasing, please visit the [Opendatabay Marketplace](https://www.opendatabay.com/).
 
 If you have any questions or need assistance, feel free to reach out to our support team. 
 
