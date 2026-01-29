@@ -16,6 +16,7 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE, VERSION 1.0
 **Licensor / Data Provider**: The individual or entity that **collected, prepared, and owns the Data Product** and is granting this License.  
 
 > **Note:** This License is granted **directly by the Data Provider**, not by Opendatabay or any other marketplace/platform hosting or facilitating the transaction. The marketplace is **only the conduit** and does not own, guarantee, or take legal responsibility for the Data Product.
+
 "**AI / ML / LLM**": Artificial Intelligence, Machine Learning, and Large Language Models, including neural networks or other model architectures trained or fine-tuned using the Data Product.
 
 "**Models**": Machine learning models created, trained, or fine-tuned using the Data Product.
@@ -27,10 +28,45 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE, VERSION 1.0
 "**Permitted Uses**": Activities expressly allowed under this License, including Training, Fine-Tuning, Evaluation, Commercial Use, and creation of Derivative Works.
 
 ### **2. License Grant and Scope (Permitted Uses)**.
+The Licensor grants the Licensee a non-exclusive, worldwide, perpetual right to use this Data Product solely for training, fine-tuning, evaluating, and developing AI, ML, LLMs, and agentic AI systems.
 
-### **3. Restrictions (Prohibited Uses)**.
+The Licensee may:
+
+	•	Train or fine-tune models, including LLMs and AI agents, AI applications and systems.
+	•	Create and use model outputs, embeddings, weights, or other Derivative Works.
+	•	Use resulting models, systems, applications and outputs commercially.
+
+The Licensor represents that, to the best of its knowledge: 
+
+- it has the rights and authority necessary to license the Data Product for the Permitted Uses; 
+- the Data Product was collected and provided in compliance with applicable data protection and related laws (including, where applicable, GDPR, EU Act and similar regimes); 
+- the Data Product does not intentionally include personal data/PII or special category sensitive data; 
+- the Licensor is not aware of any malware, viruses, or malicious code in the Data Product.
+
+
+### **3. Restrictions (Prohibited Uses)**
+
+This license covers the following activities only: training, fine-tuning, evaluating, and developing AI, ML, LLM, and agentic AI systems.
+
+Any other uses of the Data Product, including non-AI purposes such as resale, analytics, or general data distribution, are governed solely by separate license terms and are **not** granted under this License.
 
 ### **4. Outputs, Models, and Derivatives (Rights and Limits)**.
+
+Licensee may create Models using the Data Product, including training, fine-tuning, or evaluating AI, ML, LLMs, and agentic AI systems. Licensee is granted a non-exclusive, worldwide, and perpetual right to:
+	
+- Use Model outputs (predictions, text, audio, embeddings, images, or other results) for any for any lawful purpose consistent with this License, including commercial use.
+- Create and use Derivative Works such as fine-tuned weights, embeddings, or model variants.
+- Evaluate Models and publish benchmarks or performance results, provided that the Data Product itself is not disclosed.
+
+Restrictions:
+- Redistribution or sharing of the original Data Product is prohibited unless explicitly permitted under a separate license.
+- Any sharing of Derivative Works must not expose, reconstruct, or reveal the underlying Data Product.
+- Licensee bears responsibility for compliance, ethical use, and downstream behavior of Models and Derivative Works.
+
+Example:
+- Allowed: Selling a commercial AI service using a fine-tuned LLM trained on this Data Product.
+- Not allowed: Sharing the raw Data Product files with another company for them to train their own models.
+
 
 ### **5. Redistribution and Sublicensing**.
 
