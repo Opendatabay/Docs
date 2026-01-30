@@ -9,7 +9,7 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE, VERSION 1.0
 
 ### **1. Definitions**
 
-"**Data Product**": The collection of bundled, packaged data being licensed, including text, audio, images, video, or structured data, as described in the accompanying documentation.
+"**Data Product**": The collection of bundled and packaged data being licensed, which may include text, audio, images, video, raw or structured data, as described in the accompanying documentation, together with any provenance, transparency, or compliance information provided by the Licensor to support AI training, evaluation, and model documentation (e.g., model cards or safety assessments).
 
 "**License**": The individual or entity receiving rights to use the Data Product under this License.
 
@@ -42,6 +42,7 @@ The Licensor represents that, to the best of its knowledge:
 - the Data Product was collected and provided in compliance with applicable data protection and related laws (including, where applicable, GDPR, EU Act and similar regimes); 
 - the Data Product does not intentionally include personal data/PII or special category sensitive data; 
 - the Licensor is not aware of any malware, viruses, or malicious code in the Data Product.
+- the Licensor represents that the Data Product has not been intentionally altered to include 'poisoned' samples, trigger phrases, or adversarial inputs designed to compromise the alignment or security of resulting Models.
 
 
 ### **3. Restrictions (Prohibited Uses)**
@@ -49,6 +50,8 @@ The Licensor represents that, to the best of its knowledge:
 This license covers the following activities only: training, fine-tuning, evaluating, and developing AI, ML, LLM, and agentic AI systems.
 
 Any other uses of the Data Product, including non-AI purposes such as resale, analytics, or general data distribution, are governed solely by separate license terms and are **not** granted under this License.
+
+Licensee shall not intentionally remove, obscure, or alter any digital watermarks, cryptographic signatures, or provenance metadata embedded within the Data Product. These markers are essential for verifying ethical sourcing and supply chain integrity.
 
 ### **4. Outputs, Models, and Derivatives (Rights and Limits)**.
 
@@ -62,13 +65,22 @@ Restrictions:
 - Redistribution or sharing of the original Data Product is prohibited unless explicitly permitted under a separate license.
 - Any sharing of Derivative Works must not expose, reconstruct, or reveal the underlying Data Product.
 - Licensee bears responsibility for compliance, ethical use, and downstream behavior of Models and Derivative Works.
+- While Licensee may release Derivative Works (such as Model Weights) commercially, Licensee acknowledges they are solely responsible for implementing 'defence-in-depth' safeguards and ensuring such releases comply with applicable Frontier AI Safety Frameworks. Licensor is not liable for downstream misuse of open-weight models derived from the Data Product
 
-Example:
-- Allowed: Selling a commercial AI service using a fine-tuned LLM trained on this Data Product.
-- Not allowed: Sharing the raw Data Product files with another company for them to train their own models.
 
 
 ### **5. Redistribution and Sublicensing**.
+
+- Licensee may not redistribute or sublicense the original Data Product itself unless explicitly granted a separate license from the Licensor.
+	•	Licensee may sublicense or share Models and Derivative Works created using the Data Product, including fine-tuned weights, embeddings, or AI services, provided:
+	•	The underlying Data Product is not exposed, reconstructed, or disclosed.
+	•	All downstream recipients are informed that their rights to the Data Product are limited to what is explicitly granted under this License.
+	•	Licensee remains responsible for ensuring that any sublicensing or redistribution of Models or Derivative Works complies with applicable laws, ethical guidelines, and AI safety frameworks.
+
+    Example:
+- Allowed: Selling a commercial AI service using a fine-tuned LLM trained on this Data Product.
+- Not allowed: Sharing the raw Data Product files with another company for them to train their own models.
+
 
 ### **6. Compliance (Law, Privacy, Security, Responsible Use)**.
 
