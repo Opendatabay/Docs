@@ -122,37 +122,30 @@ Third-Party Rights
 
 ### **9. Warranty Disclaimer and Liability Limits**.
 
-Limited Data/IP Warranty
-
+Limited Data and IP Warranty
 - Licensor warrants that it has the right to license the Data Product under this License and that the Data Product was not obtained in violation of applicable law or third-party intellectual property rights.
-- Licensor does not warrant that the Data Product is free from all third‑party claims, nor that Licensee’s specific use of the Data Product, Models, or Derivative Works will be lawful in all jurisdictions or for all use cases.
+- Licensor does not warrant that the Data Product is free from all third-party claims, nor that Licensee’s specific use of the Data Product, Models, or Derivative Works will be lawful in all jurisdictions or for all intended use cases.
 
 No Other Warranties
+- Except for the limited warranty set out in Section 9.1, the Data Product, and any related documentation, Models, or services, are provided “as is” and “as available.”
+- To the fullest extent permitted by law, Licensor disclaims all other warranties, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, accuracy, completeness, non-infringement, or that the Data Product or Models will be error-free, uninterrupted, or suitable for any specific use.
 
-- Limited Data and IP Warranty
-	•	Licensor warrants that it has the right to license the Data Product under this License and that, to Licensor’s reasonable knowledge, the Data Product was not knowingly obtained in violation of applicable law or third-party intellectual property rights.
-	•	Licensor does not warrant that the Data Product is free from all third-party claims, nor that Licensee’s specific use of the Data Product, Models, or Derivative Works will be lawful in all jurisdictions or for all intended use cases.
+No Guarantee of Results
+- Licensor does not guarantee any specific outcomes, performance, or results arising from the use of the Data Product, including any Models or Derivative Works created using it.
+- Licensee is responsible for assessing and validating the suitability, accuracy, and safety of the Data Product, Models, and outputs for its intended use, including compliance with applicable laws, regulations, and industry standards.
 
-- No Other Warranties
-	•	Except for the limited warranty set out in Section 9.1, the Data Product, and any related documentation, Models, or services, are provided “as is” and “as available.”
-	•	To the fullest extent permitted by law, Licensor disclaims all other warranties, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, accuracy, completeness, non-infringement, or that the Data Product or Models will be error-free, uninterrupted, or suitable for any specific use.
-
-- No Guarantee of Results
-	•	Licensor does not guarantee any specific outcomes, performance, or results arising from the use of the Data Product, including any Models or Derivative Works created using it.
-	•	Licensee is responsible for assessing and validating the suitability, accuracy, and safety of the Data Product, Models, and outputs for its intended use, including compliance with applicable laws, regulations, and industry standards.
-
-- Limitation of Liability
-	•	To the fullest extent permitted by applicable law, each party’s total aggregate liability to the other for all claims arising out of or relating to this License, the Data Product, or any related Models or services—whether in contract, tort, or otherwise—will not exceed the greater of:
+Limitation of Liability
+- To the fullest extent permitted by applicable law, each party’s total aggregate liability to the other for all claims arising out of or relating to this License, the Data Product, or any related Models or services—whether in contract, tort, or otherwise—will not exceed the greater of:
 a) the amounts actually paid by Licensee for the Data Product in the twelve (12) months preceding the event giving rise to the claim; or
 b) any fixed liability cap specified in the Order or applicable commercial terms.
-	•	This limitation applies in the aggregate to all claims and causes of action.
+- This limitation applies in the aggregate to all claims and causes of action.
 
-- Exclusion of Certain Damages
-	•	To the fullest extent permitted by law, neither party will be liable to the other for any indirect, incidental, consequential, special, punitive, or exemplary damages, including loss of profits, revenue, goodwill, data, or business interruption, even if such damages were foreseeable or the party was advised of their possibility.
+Exclusion of Certain Damages
+- To the fullest extent permitted by law, neither party will be liable to the other for any indirect, incidental, consequential, special, punitive, or exemplary damages, including loss of profits, revenue, goodwill, data, or business interruption, even if such damages were foreseeable or the party was advised of their possibility.
 
-- Carve-Outs and Mandatory Legal Exceptions
-	•	Nothing in this Section 9 limits or excludes liability that cannot be limited or excluded under applicable law, including liability for death or personal injury caused by negligence, or for fraud or fraudulent misrepresentation.
-	•	The limitations and exclusions in Sections 9.4 and 9.5 do not apply to:
+Carve-Outs and Mandatory Legal Exceptions
+- Nothing in this Section 9 limits or excludes liability that cannot be limited or excluded under applicable law, including liability for death or personal injury caused by negligence, or for fraud or fraudulent misrepresentation.
+- The limitations and exclusions in Sections 9.4 and 9.5 do not apply to:
 a) Licensee’s payment obligations; or
 b) Licensor’s indemnification obligations for breach of the limited warranty in Section 9.1, to the extent expressly set out in the Indemnity section of this License.
 	•	Where liability cannot be excluded, the remaining limitations in this Section apply to the maximum extent permitted by law.
