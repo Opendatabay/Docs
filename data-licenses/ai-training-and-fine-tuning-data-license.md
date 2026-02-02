@@ -19,8 +19,6 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE – GENERAL USE, VERSION 1
 
 "**Licensor / Data Provider**": The individual or entity that collected, prepared, and owns the Data Product and is granting this License.  
 
-> **Note:** While the Data Provider collects and owns the Data Product, this License is **issued by Opendatabay** and governs its use within the Opendatabay ecosystem. The marketplace is the licensing authority, ensuring compliance and responsible use.
-
 "**AI / ML / LLM**": Artificial Intelligence, Machine Learning, and Large Language Models, including neural networks or other model architectures trained or fine-tuned using the Data Product.
 
 "**Models**": Machine learning models created, trained, or fine-tuned using the Data Product.
