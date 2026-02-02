@@ -20,7 +20,8 @@
 
 ## Data Licenses
 
-* [AI Training and Fine-Tuning Data License](data-licenses/ai-training-and-fine-tuning-data-license.md)
+* [AI Training and Fine-Tuning Data License – General Use](data-licenses/ai-training-and-fine-tuning-data-license-general.md)
+* [AI Training and Fine-Tuning Data License – Commercial Use](data-licenses/ai-training-and-fine-tuning-data-license-commercial.md)
 * [ODC](data-licenses/odc.md)
 * [CC0 1.0 DEED](data-licenses/page.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
