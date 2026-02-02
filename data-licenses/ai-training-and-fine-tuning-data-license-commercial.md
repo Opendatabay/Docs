@@ -3,6 +3,8 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE – GENERAL USE, VERSION 1
 ---
 
 # AI TRAINING AND FINE TUNING DATA LICENSE – GENERAL USE
+## Version 1.0
+
 *For internal AI training, evaluation, and research; not for commercial deployment or monetisation.*
 
 > **Platform-Specific License Notice:**  
