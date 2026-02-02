@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Open Data Marketplace](README.md)
+* [AI and LLM Data Marketplace](README.md)
 
 ## Marketplace
 
