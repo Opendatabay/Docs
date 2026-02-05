@@ -150,3 +150,9 @@ Example:
 **Notices & Assignment**  
 
 - Notices must be in writing. Licensee may not assign rights without Licensor consent.  
+
+
+### **END OF LICENSE**
+This license provides balanced protection for both data sellers and buyers, with clear definitions, fair termination provisions, symmetric confidentiality, proportional liability, and compliance with current AI regulations including EU AI Act requirements and export control considerations.
+
+© [2026] Opendatabay. All Rights Reserved. This license is the proprietary intellectual property of Opendatabay. It is licensed for use solely for transactions facilitated by or authorized by Opendatabay. Unauthorized reproduction, modification, or distribution of this legal text for use on competing platforms or external transactions without Opendatabay’s express written consent is strictly prohibited and may result in legal action.
