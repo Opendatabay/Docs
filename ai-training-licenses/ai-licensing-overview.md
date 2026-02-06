@@ -91,8 +91,7 @@ Opendatabay provides **two specialized AI training licenses** designed to meet d
 | **Model Distribution** | Research only | ✅ Unlimited |
 | **AI Services/APIs** | ❌ No | ✅ Yes |
 | **Sublicensing** | ❌ No | ✅ Yes |
-| **Typical Cost** | Free or Low | Standard pricing |
-| **Use Case** | Research & Learning | Production & Revenue |
+| **Use Case** | Research & Learning, POC | Production & Revenue |
 
 ## What Both Licenses Cover
 
@@ -123,9 +122,5 @@ Both Opendatabay AI licenses provide:
 - Need to sublicense AI capabilities to customers
 - Are building production AI systems for enterprise use
 - Require full legal protection for commercial deployment
-
-## Getting Started
-
-Each data product on Opendatabay clearly indicates which license(s) are available. Some data providers offer both options, allowing you to start with the General License and upgrade to Commercial when you're ready to launch.
 
 **Questions about which license is right for you?** Review the full license terms in the documentation or contact the data provider directly through the Opendatabay platform.

@@ -30,12 +30,12 @@
 
 ## Standard Data Licenses
 
-* [ODC](standard-data-licenses/odc.md)
-* [CC0 1.0 DEED](standard-data-licenses/cc0-1.0-deed.md)
 * [APACHE 2.0](standard-data-licenses/apache-2.0.md)
-* [CC BY-NC-SA 4.0 DEED](standard-data-licenses/cc-by-nc-sa-4.0-deed.md)
 * [CC BY-NC-ND 4.0 DEED](standard-data-licenses/cc-by-nc-nd-4.0-deed.md)
+* [CC BY-NC-SA 4.0 DEED](standard-data-licenses/cc-by-nc-sa-4.0-deed.md)
+* [CC0 1.0 DEED](standard-data-licenses/cc0-1.0-deed.md)
 * [GPL-2](standard-data-licenses/gpl-2.md)
+* [ODC](standard-data-licenses/odc.md)
 * [CUSTOM](standard-data-licenses/custom.md)
 
 ## Links

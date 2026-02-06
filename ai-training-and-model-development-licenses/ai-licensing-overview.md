@@ -1,2 +1,0 @@
-# AI Licensing Overview
-
