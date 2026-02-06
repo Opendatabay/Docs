@@ -24,7 +24,7 @@
 
 ## AI Training & Model Development Licenses
 
-* [AI Licensing Overview](ai-training-and-model-development-licenses/ai-licensing-overview.md)
+* [AI Licensing Overview](ai-training-licenses/ai-licensing-overview.md)
 * [GENERAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/general-ai-training-and-fine-tunning-data-license.md)
 * [COMMERCIAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/commercial-ai-training-and-fine-tuning-data-license.md)
 
