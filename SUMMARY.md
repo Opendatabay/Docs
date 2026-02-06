@@ -5,13 +5,11 @@
 ## Marketplace
 
 * [How Opendatabay Works](marketplace/how-opendatabay-works.md)
-* [Marketplace Overview](marketplace/marketplace-overview.md)
 
 ## For Data Buyers
 
 * [Finding Datasets](for-data-buyers/finding-datasets.md)
 * [Purchase Types](for-data-buyers/purchase-types.md)
-* [Data Licenses](for-data-buyers/data-licenses.md)
 * [Compliance & Legal](for-data-buyers/compliance-and-legal.md)
 
 ## For Data Providers
