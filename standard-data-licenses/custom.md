@@ -36,9 +36,3 @@ Opendatabay Data Marketplace empowers data sellers to define and apply custom li
    * Buyers must acknowledge and accept the terms of the custom license during the purchasing process.
 3. **Accessing License Post-Purchase:**
    * Once a dataset is purchased, the buyer can access and review the custom license terms in their profile under "My Purchases."
-
-#### Conclusion <a href="#conclusion" id="conclusion"></a>
-
-Custom Data Licenses on Opendatabay Data Marketplace empower data sellers to tailor licensing agreements to their specific needs. This feature enhances transparency and facilitates smoother transactions by ensuring that both parties clearly understand the terms and conditions associated with each dataset. If you have any questions or need further assistance, feel free to explore our Help Center or contact our support team.&#x20;
-
-Happy data licensing!
