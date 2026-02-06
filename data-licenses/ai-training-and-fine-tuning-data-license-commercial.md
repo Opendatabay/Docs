@@ -2,7 +2,7 @@
 description: AI TRAINING AND FINE TUNING DATA LICENSE – COMMERCIAL USE, VERSION 1.0
 ---
 
-# AI TRAINING AND FINE TUNING DATA LICENSE – COMMERCIAL USE
+# COMMERCIAL USE
 ## Version 1.0
 
 *For production AI systems, SaaS, APIs, and monetised outputs.*
@@ -11,7 +11,7 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE – COMMERCIAL USE, VERSIO
 > Its use outside the Opendatabay platform, or without Opendatabay’s knowledge and authorization, is strictly prohibited.  
 > This License applies to Data Products listed on Opendatabay or provided via the platform, including samples, previews, or full datasets.
 
-{% embed url="https://www.github.com" %}
+{% embed url="https://www.github.com" % }
 
 ### **1. Definitions**
 
