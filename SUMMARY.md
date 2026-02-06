@@ -2,7 +2,6 @@
 * [AI and LLM Data Marketplace](README.md)
 
 ## Marketplace
-* [AI & LLM Data Marketplace](marketplace/ai-and-llm-data-marketplace.md)
 * [How Opendatabay Works](marketplace/how-opendatabay-works.md)
 * [Marketplace Overview](marketplace/marketplace-overview.md)
 
@@ -23,12 +22,12 @@
 
 ## AI Training & Model Development Licenses
 * [AI Licensing Overview](ai-training-licenses/overview.md)
-* [GENERAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/general-ai-training-and-fine-tuning-data-license.md)
+* [GENERAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/general-ai-training-and-fine-tunning-data-license.md)
 * [COMMERCIAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/commercial-ai-training-and-fine-tuning-data-license.md)
 
 ## Standard Data Licenses
 * [ODC](data-licenses/odc.md)
-* [CC0 1.0 DEED](data-licenses/page.md)
+* [CC0 1.0 DEED](data-licenses/cc0-1.0-deed.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
 * [CC BY-NC-SA 4.0 DEED](data-licenses/cc-by-nc-sa-4.0-deed.md)
 * [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
