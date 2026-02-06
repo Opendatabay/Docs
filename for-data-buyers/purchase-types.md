@@ -1,54 +1,117 @@
 ---
-description: Opendatabay Marketplace - Data Delivery Methods
-keywords: Opendatabay, Marketplace, Data Delivery, Downloadable Package, Data Stream,
+description: Opendatabay Marketplace - Purchase Types and Data Access Models
+keywords: Opendatabay, Marketplace, Purchase Types, One-time Purchase, Subscription, Pay-per-use, Custom Arrangements, Data Reports, Managed Access, Data Licenses
 ---
 
-# Opendatabay Marketplace - Data Delivery Methods
+# Purchase Types
 
+Opendatabay enables flexible purchasing options, ***defined by data providers***, to meet diverse data needs.
+## Available Purchase Types
 
-Welcome to the Opendatabay Marketplace! Our platform offers multiple ways to purchase and access high-quality datasets, catering to various data consumption needs. Below are the different types of purchasing options available on our marketplace:
+### 1. One-Time Purchase
 
+Pay once to access a specific dataset, ideal for users who need immediate access without ongoing costs.
 
+**Best for:**
+- Single project requirements
+- Historical data analysis
+- One-off research needs
+- Budget-conscious purchases
 
-## 1. Downloadable Package (Downloadable file like CSV, ZIP, etc.)
+### 2. Subscription
 
-- **Description**: This option allows you to make a one-time purchase of a specific dataset.
-- **Process**: Upon payment, you can instantly download the data file.
-- **File Formats**: Available formats typically include CSV, XLS, XLSX, PDF, ZIP and Parquet.
-- **Ideal For**: Users who need a specific dataset for immediate use without recurring costs.
+Pay a recurring fee (monthly or annually) for continuous access to datasets, suitable for users who require regular updates and ongoing access.
 
-## 2. Data Stream (Read & Write data via API)
+**Best for:**
+- Regularly updated datasets
+- Ongoing business intelligence
+- Long-term research projects
+- Teams needing consistent data access
 
-- **Description**: Access datasets through APIs, enabling dynamic data integration.
-- **Payment Model**: Pay-per-call basis, which can be through Opendatabay's API or directly via the data provider's API.
-- **Use Case**: Ideal for developers and businesses that require ongoing data access, allowing for real-time data updates and integration into applications or systems.
+### 3. Pay-Per-Use
 
+Pay based on the amount of data accessed or the number of API calls made, perfect for users who need flexible access without a long-term commitment. Usually these API calls are direct with the data provider.
 
-## 3. Data Reports (Generated reports, PDF, etc.)
+**Best for:**
+- Variable usage patterns
+- Testing and experimentation
+- Scalable data consumption
+- Cost-efficient access for occasional use
 
-- **Description**: Customized data reports tailored to specific requirements.
-- **Process**: Submit a request for a report; pricing is determined per report.
-- **Content**: Reports can include detailed data analysis, visualizations, and insights.
-- **Ideal For**: Users seeking in-depth, specialized reports without the need to purchase raw data.
+### 4. Data Reports
 
-## 4. Managed Access (Give access to your data storage)
+Customized data reports tailored to specific requirements, where pricing is determined per report, ideal for users seeking in-depth, specialized insights without the need to purchase raw data.
 
-- **Description**: Gain continuous access to datasets stored on cloud platforms such as AWS, Azure, and Snowflake.
-- **Tools Integration**: Compatible with tools like Power BI and ODBC drivers for SQL, facilitating seamless data analysis and reporting.
-- **Payment Model**: Subscription-based or One-time providing cost-effective and flexible access over time.
-- **Ideal For**: Businesses and analysts who need consistent and extensive data access for ongoing projects.
+**Best for:**
+- Executive summaries and insights
+- Custom analysis and visualizations
+- Market research reports
+- Specialized industry intelligence
 
-## 5. Other - Specified in description
+### 5. Managed Access
 
-- **Description**: Unique purchasing options specified by the data provider.
-- **Process**: Follow the instructions provided in the dataset description.
-- **Ideal For**: Users looking for specialized data access or unique purchasing arrangements.
+Continuous access to datasets stored on cloud platforms such as AWS, Azure, and Snowflake, with subscription-based or one-time payment models. This option is ideal for businesses and analysts who need consistent and extensive data access for ongoing projects. This could also apply where access is given to data dashboards and platforms.
 
+**Best for:**
+- Enterprise data integration
+- Cloud-native architectures
+- Large-scale data operations
+- Dashboard and platform access
+
+### 6. Data Licenses
+
+Some datasets may be available under specific licenses (e.g., General AI Training and Fine-tuning Data License, Commercial AI Training and Fine-tuning Data License) that dictate the terms of use and access, which can be purchased based on the licensing agreement.
+
+**Best for:**
+- AI model training and fine-tuning
+- Machine learning development
+- Commercial AI applications
+- Research and academic projects
+
+**Learn more**: [AI Licensing Overview](ai-training-licenses/ai-licensing-overview.md)
+
+### 7. Custom Arrangements
+
+Some data providers may offer unique purchasing options specified in the dataset description, allowing for specialized access or tailored purchasing arrangements.
+
+**Best for:**
+- Enterprise procurement processes
+- Specialized use cases
+- Negotiated terms and pricing
+- Bulk or volume purchases
+
+### 8. Other
+
+Unique purchasing options specified by the data provider. Buyers should follow the instructions provided in the dataset description or contact the data provider directly through the Opendatabay platform.
+
+## How to Choose the Right Purchase Type
+
+| Your Need | Recommended Purchase Type |
+|-----------|--------------------------|
+| One-off project or analysis | One-Time Purchase |
+| Regular data updates | Subscription |
+| Variable or unpredictable usage | Pay-Per-Use |
+| Custom insights without raw data | Data Reports |
+| Cloud integration and dashboards | Managed Access |
+| AI training and model development | Data Licenses |
+| Large-scale or specialized requirements | Custom Arrangements |
+
+## Off-Platform Procurement
+
+Many enterprise procurement processes still work **off the platform**. If the standard purchase types don't meet your needs, contact the data provider directly through their listing to discuss:
+
+- Enterprise licensing agreements
+- Volume discounts
+- Custom delivery methods
+- Specialized support arrangements
+- Tailored compliance requirements
+
+## Questions About Purchase Types?
+
+Each dataset listing clearly indicates which purchase types are available. If you have questions about pricing, access methods, or custom arrangements, contact the data provider directly through the Opendatabay platform or review the dataset description for specific instructions.
 
 ---
 
-To explore collections and begin purchasing, please visit the [Opendatabay Marketplace](https://www.opendatabay.com/).
+**Need Help?** Contact Opendatabay support for assistance with purchase options and data provider connections.
 
-If you have any questions or need assistance, feel free to reach out to our support team. 
-
-Happy data exploring!
+---
