@@ -1,27 +1,32 @@
 # Table of contents
-
 * [AI and LLM Data Marketplace](README.md)
 
 ## Marketplace
+* [AI & LLM Data Marketplace](marketplace/ai-and-llm-data-marketplace.md)
+* [How Opendatabay Works](marketplace/how-opendatabay-works.md)
+* [Marketplace Overview](marketplace/marketplace-overview.md)
 
-* [Data Providers](marketplace/data-providers.md)
-* [Purchase Types](marketplace/purchase-types.md)
+## For Data Buyers
+* [Finding Datasets](for-data-buyers/finding-datasets.md)
+* [Purchase Types](for-data-buyers/purchase-types.md)
+* [Data Licenses](for-data-buyers/data-licenses.md)
+* [Compliance & Legal](for-data-buyers/compliance-and-legal.md)
 
-## Support
+## For Data Providers
+* [Data Providers Overview](for-data-providers/data-providers-overview.md)
+* [Platform Fees and Pricing](for-data-providers/platform-fees-and-pricing.md)
+* [Profile Setup](for-data-providers/profile-setup.md)
+* [Collection Setup](for-data-providers/collection-setup.md)
+* [Upload Collection](for-data-providers/upload-collection.md)
+* [Dataset Formatting Guidelines](for-data-providers/dataset-formatting-guidelines.md)
+* [Markdown Language](for-data-providers/markdown-language.md)
 
-* [Profile Setup](support/profile-setup.md)
-* [Collection Setup](support/collection-setup.md)
-* [Upload Collection](support/upload-collection.md)
-* [Markdown Language](support/markdown-language.md)
+## AI Training & Model Development Licenses
+* [AI Licensing Overview](ai-training-licenses/overview.md)
+* [GENERAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/general-ai-training-and-fine-tuning-data-license.md)
+* [COMMERCIAL AI TRAINING AND FINE-TUNING DATA LICENSE](ai-training-licenses/commercial-ai-training-and-fine-tuning-data-license.md)
 
-## Links
-
-* [Important Link](links/page-3.md)
-
-## Data Licenses
-
-* [GENERAL AI TRAINING AND FINE-TUNING DATA LICENSE](data-licenses/general-ai-training-and-fine-tuning-data-license.md)
-* [COMMERCIAL AI TRAINING AND FINE-TUNING DATA LICENSE](data-licenses/commercial-ai-training-and-fine-tuning-data-license.md)
+## Standard Data Licenses
 * [ODC](data-licenses/odc.md)
 * [CC0 1.0 DEED](data-licenses/page.md)
 * [APACHE 2.0](data-licenses/apache-2.0.md)
@@ -29,3 +34,6 @@
 * [CC BY-NC-ND 4.0 DEED](data-licenses/cc-by-nc-nd-4.0-deed.md)
 * [GPL-2](data-licenses/gpl-2.md)
 * [CUSTOM](data-licenses/custom.md)
+
+## Links
+* [Important Link](important-links/links.md)

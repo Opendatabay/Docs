@@ -28,7 +28,6 @@ Stay connected with us through our social media channels:
     * [Facebook](https://www.facebook.com/Opendatabaycom)
     * [Twitter](https://twitter.com/Open_databay)
     * [YouTube](https://www.youtube.com/@opendatabay)
-    * [Reddit](https://www.reddit.com/r/Opendatabay/)
 
 
 
