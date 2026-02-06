@@ -1,5 +1,3 @@
-# How Opendatabay Works
-
 ---
 description: How Opendatabay Works - AI and LLM Data Marketplace Platform
 keywords: Opendatabay, How It Works, AI Marketplace, LLM Training Data, Data Exchange, Fine-Tuning Datasets
