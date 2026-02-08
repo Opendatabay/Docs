@@ -7,7 +7,7 @@ keywords: Opendatabay, AI License, Data License, Machine Learning, LLM Training,
 
 ## Why AI Training Licenses Matter
 
-Traditional data licenses were designed for analytics, reporting, and business intelligence—not for training artificial intelligence models. AI training creates unique legal challenges that standard data licenses don't address.
+Traditional data licenses were designed for analytics, reporting, and business intelligence, not for training artificial intelligence models. AI training creates unique legal challenges that standard data licenses don't address.
 
 ### For Data Sellers
 

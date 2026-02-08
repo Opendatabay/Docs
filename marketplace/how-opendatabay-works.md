@@ -5,7 +5,7 @@ keywords: Opendatabay, How It Works, AI Marketplace, LLM Training Data, Data Exc
 
 # How Opendatabay Works
 
-Opendatabay is the **AI Training Data Exchange** connecting data providers with AI developers—reducing data acquisition from weeks to seconds.
+Opendatabay is the **AI Training Data Exchange** connecting data providers with AI developers, reducing data acquisition from weeks to seconds.
 
 ## The Purpose
 
@@ -72,7 +72,7 @@ Data Providers (Sellers)  →  Opendatabay (Marketplace) →  AI Developers (Buy
 ## What Makes Us Different
 
 - **AI-First**: 100% focused on AI training data, not general data
-- **Instant Access**: No weeks of negotiation—purchase and download in seconds
+- **Instant Access**: No weeks of negotiation, purchase and download in seconds
 - **LLM Discovery**: First marketplace with automatic LLM exposure
 - **Legal Certainty**: Standardized AI licenses eliminate risk
 
@@ -94,4 +94,4 @@ Data Providers (Sellers)  →  Opendatabay (Marketplace) →  AI Developers (Buy
 
 Our mission is to serve both humans and machines with the highest-quality AI training data, while enabling data providers to securely monetize their work.
 
-We're building the infrastructure layer for responsible AI development—making AI data discovery and access as seamless as shopping on Amazon.
+We're building the infrastructure layer for responsible AI development, making AI data discovery and access as seamless as shopping on Amazon.

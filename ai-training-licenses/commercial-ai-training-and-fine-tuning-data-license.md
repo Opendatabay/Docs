@@ -168,7 +168,7 @@ Licensor does not guarantee any specific outcomes, performance, or results arisi
 Licensee is responsible for assessing and validating the suitability, accuracy, and safety of the Data Product, Models, and outputs for its intended use, including compliance with applicable laws, regulations, and industry standards.
 
 #### 8.4 Limitation of Liability
-To the fullest extent permitted by applicable law, each party’s total aggregate liability to the other for all claims arising out of or relating to this License, the Data Product, or any related Models or services—whether in contract, tort, or otherwise—will not exceed the greater of:
+To the fullest extent permitted by applicable law, each party’s total aggregate liability to the other for all claims arising out of or relating to this License, the Data Product, or any related Models or services, whether in contract, tort, or otherwise, will not exceed the greater of:
 (a) the total amounts paid by Licensee for the Data Product under this License; or
 (b) any fixed liability cap specified in the Order or applicable commercial terms.
 This limitation applies in the aggregate to all claims and causes of action.

@@ -8,8 +8,8 @@ description: Creative Commons - Attribution-NonCommercial-ShareAlike 4.0 Interna
 
 #### You are free to: <a href="#rights" id="rights"></a>
 
-1. **Share** — copy and redistribute the material in any medium or format
-2. **Adapt** — remix, transform, and build upon the material
+1. **Share** ,  copy and redistribute the material in any medium or format
+2. **Adapt** ,  remix, transform, and build upon the material
 3. The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 #### Under the following terms: <a href="#terms" id="terms"></a>
