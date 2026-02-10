@@ -3,7 +3,8 @@ description: Opendatabay AI Training Data Licenses - Overview and Importance
 keywords: Opendatabay, AI License, Data License, Machine Learning, LLM Training, Model Development, AI Training Data, Fine Tuning License, Commercial License
 ---
 
-# AI Licensing Overview
+# AI Licensing Overview and Differences between General and Comercial Licenses 
+
 
 ## Why AI Training Licenses Matter
 
