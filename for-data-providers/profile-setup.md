@@ -4,7 +4,7 @@ description: Setting Up Your Data Provider Profile on Opendatabay
 
 # Profile Setup
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Data Provider profile visuals and sizes</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Data Provider profile visuals and sizes</p></figcaption></figure>
 
 To get started with your data provider profile on Opendatabay, follow these steps to ensure a complete and attractive profile setup.
 

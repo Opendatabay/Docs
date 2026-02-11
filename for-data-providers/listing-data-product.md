@@ -68,7 +68,7 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
 
 **About**: Provide a detailed description of your data collection.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
 
 * **Guidance**: The description can be written in Markdown language (.MD) for better formatting and more options.
   *   **Example**:
@@ -109,10 +109,10 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
 
 Your collection card will be available to public on the marketplace page
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
 
 Additionally, newly listed collection cards will be added to provider's profile.<br>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Collection Card on Provider's Profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Collection Card on Provider's Profile</p></figcaption></figure>
 
 By following these steps, you will create a detailed, visually appealing, and professional data collection page that attracts buyers and facilitates smooth transactions on Opendatabay.
