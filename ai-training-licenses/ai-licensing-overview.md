@@ -25,7 +25,7 @@ Traditional data licenses were designed for analytics, reporting, and business i
 **AI training licenses give you clarity on:**
 
 - What you can actually do with trained models and outputs
-- Whether you can commercialize AI products built on the data
+- Whether you can commercialise AI products built on the data
 - Rights to distribute model weights and embeddings
 - Your obligations under AI safety and transparency regulations
 - Protection from liability for downstream model behavior
@@ -44,7 +44,7 @@ Traditional data licenses don't cover:
 
 ## Opendatabay's Two AI Licenses
 
-Opendatabay provides **two specialized AI training licenses** designed to meet different needs while ensuring fairness and legal compliance.
+Opendatabay provides **two specialised AI training licenses** designed to meet different needs while ensuring fairness and legal compliance.
 
 ### General AI Training and Fine-Tuning Data License
 
@@ -119,7 +119,7 @@ Both Opendatabay AI licenses provide:
 ### Choose **Commercial License** if you:
 
 - Plan to sell AI products, services, or API access
-- Want to commercialize trained models or model weights
+- Want to commercialise trained models or model weights
 - Need to sublicense AI capabilities to customers
 - Are building production AI systems for enterprise use
 - Require full legal protection for commercial deployment

@@ -67,7 +67,7 @@ Negotiated delivery method between buyer and seller.
 - Options include FTP, direct database access, physical transfer, or enterprise platform integration
 - Opendatabay facilitates the arrangement
 
-**Best for:** Enterprise requirements, legacy systems, specialized security needs
+**Best for:** Enterprise requirements, legacy systems, specialised security needs
 
 ---
 
@@ -79,7 +79,7 @@ Unique delivery method outlined in dataset description.
 - Follow instructions in dataset listing
 - Contact provider for setup details
 
-**Best for:** Specialized formats, proprietary systems, niche requirements
+**Best for:** Specialised formats, proprietary systems, niche requirements
 
 ---
 

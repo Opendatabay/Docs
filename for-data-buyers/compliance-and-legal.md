@@ -175,7 +175,7 @@ For complete terms and conditions, please review:
 - **[Data Provider Rights and Responsibilities](https://www.opendatabay.com/legal/right)** - What sellers must guarantee
 - **[Listing Requirements](https://www.opendatabay.com/legal/listing)** - Dataset quality standards
 - **[Platform Fees](https://www.opendatabay.com/legal/fees)** - Commission structure and payment terms
-- **[AI Training Licenses](link-to-ai-licensing-overview)** - Specialized licenses for AI use cases
+- **[AI Training Licenses](link-to-ai-licensing-overview)** - Specialised licenses for AI use cases
 
 ---
 

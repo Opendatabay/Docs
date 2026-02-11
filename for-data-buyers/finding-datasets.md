@@ -144,7 +144,7 @@ For personalized assistance, use our **[Ask AI](https://www.opendatabay.com/ask-
 - Use Ask AI for detailed comparisons
 
 ### Check Accuracy Scores
-- Prioritize datasets with 75%+ accuracy scores
+- Prioritise datasets with 75%+ accuracy scores
 - Review lower-scoring options only if specific needs aren't met
 - Read full descriptions even for high-scoring matches
 

@@ -40,13 +40,13 @@ Pay based on the amount of data accessed or the number of API calls made, perfec
 
 ### 4. Data Reports
 
-Customized data reports tailored to specific requirements, where pricing is determined per report, ideal for users seeking in-depth, specialized insights without the need to purchase raw data.
+Customized data reports tailored to specific requirements, where pricing is determined per report, ideal for users seeking in-depth, specialised insights without the need to purchase raw data.
 
 **Best for:**
 - Executive summaries and insights
 - Custom analysis and visualizations
 - Market research reports
-- Specialized industry intelligence
+- Specialised industry intelligence
 
 ### 5. Managed Access
 
@@ -72,11 +72,11 @@ Some datasets may be available under specific licenses (e.g., General AI Trainin
 
 ### 7. Custom Arrangements
 
-Some data providers may offer unique purchasing options specified in the dataset description, allowing for specialized access or tailored purchasing arrangements.
+Some data providers may offer unique purchasing options specified in the dataset description, allowing for specialised access or tailored purchasing arrangements.
 
 **Best for:**
 - Enterprise procurement processes
-- Specialized use cases
+- Specialised use cases
 - Negotiated terms and pricing
 - Bulk or volume purchases
 
@@ -94,7 +94,7 @@ Unique purchasing options specified by the data provider. Buyers should follow t
 | Custom insights without raw data | Data Reports |
 | Cloud integration and dashboards | Managed Access |
 | AI training and model development | Data Licenses |
-| Large-scale or specialized requirements | Custom Arrangements |
+| Large-scale or specialised requirements | Custom Arrangements |
 
 ## Off-Platform Procurement
 
@@ -103,7 +103,7 @@ Many enterprise procurement processes still work **off the platform**. If the st
 - Enterprise licensing agreements
 - Volume discounts
 - Custom delivery methods
-- Specialized support arrangements
+- Specialised support arrangements
 - Tailored compliance requirements
 
 ## Questions About Purchase Types?
