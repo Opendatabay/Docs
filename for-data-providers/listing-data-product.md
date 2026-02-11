@@ -2,7 +2,7 @@
 description: Setting Up Your Collection on Opendatabay
 ---
 
-# Collection Setup
+# Listing Data Product
 
 To effectively set up your data collection page on Opendatabay, ensure all required fields are completed. Here’s a guide to help you through the process:
 
@@ -84,11 +84,10 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
       ```
 
 6. **Dataset Information**
-   * **License**: Specify the dataset's license (e.g., CC BY-SA 4.0) See [Licenses](broken-reference) for more information
+   * **License**: Specify the dataset's license (e.g., CC BY-SA 4.0) See [Licenses](/broken/pages/YWOAXpB2AfQxTKXcJP48) for more information
    * **Region**: Specify the dataset's region (e.g., Global, Europe, North America)
    * **Dataset Type**: Specify the dataset's type (e.g., Textual, Images, Videos)
-   *   **Version**: Automatically assigned with each update\
-
+   *   **Version**: Automatically assigned with each update<br>
 
        **Additional Information**
 
@@ -112,8 +111,7 @@ Your collection card will be available to public on the marketplace page
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
 
-Additionally, newly listed collection cards will be added to provider's profile.\
-
+Additionally, newly listed collection cards will be added to provider's profile.<br>
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Collection Card on Provider's Profile</p></figcaption></figure>
 
