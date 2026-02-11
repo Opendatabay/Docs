@@ -31,7 +31,7 @@ Welcome to **Opendatabay**, the go-to marketplace for high-quality AI and LLM tr
 
 ### **Our Mission**
 
-At Opendatabay, we aim to **unlock the power of AI by democratizing access to high-quality datasets**. We focus on breaking down data silos, ensuring that AI developers and researchers can access the data they need without friction, while data providers can securely share and monetize their datasets.
+At Opendatabay, we aim to **unlock the power of AI by democratizing access to high-quality datasets**. We focus on breaking down data silos, ensuring that AI developers and researchers can access the data they need without friction, while data providers can securely share and monetise their datasets.
 
 ### **What We Offer**
 

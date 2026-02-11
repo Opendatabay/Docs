@@ -25,12 +25,12 @@ Opendatabay makes AI-ready datasets instantly discoverable, legally compliant, a
 
 ## How It Works
 
-### For Data Buyers (AI Developers, LLM teams, Enterprise buyer)
+### For Data Buyers (AI Developers, LLM teams, Enterprise buyers)
 
 **1. Discover**
 
-* Search on platform or ask any LLM (ChatGPT, Claude, Perplexity, etc.)
-* All datasets automatically exposed to major LLMs and search engines
+* Search on the platform or ask any LLM (ChatGPT, Claude, Perplexity, etc.)
+* All datasets are automatically exposed to major LLMs and search engines
 * Get AI-powered recommendations with accuracy scores
 
 **2. Evaluate**
@@ -57,7 +57,7 @@ Opendatabay makes AI-ready datasets instantly discoverable, legally compliant, a
 
 **1. List Dataset**
 
-* Upload data and add description
+* Upload data and add its description
 * Set pricing and license type
 * Platform verifies and processes
 
@@ -86,7 +86,7 @@ Data Providers (Sellers) → Opendatabay (Marketplace) → AI Developers (Buyers
 * **AI-First**: 100% focused on AI training data, not general data
 * **Instant Access**: No weeks of negotiation, purchase and download in seconds
 * **LLM Discovery**: First marketplace with automatic LLM exposure
-* **Legal Certainty**: Standardized AI licenses eliminate risk
+* **Legal Certainty**: Standardised AI licenses eliminate risk
 
 ***
 
@@ -97,13 +97,13 @@ Data Providers (Sellers) → Opendatabay (Marketplace) → AI Developers (Buyers
 | **AI Startups**    | Fast access to training data without legal teams |
 | **Researchers**    | Affordable datasets for academic projects        |
 | **Enterprises**    | Compliant data for production AI systems         |
-| **Data Owners**    | Monetize datasets with global reach              |
+| **Data Owners**    | Monetise datasets with global reach              |
 | **LLM Developers** | Domain-specific fine-tuning data instantly       |
 
 ***
 
 ## Our Mission
 
-Our mission is to serve both humans and machines with the highest-quality AI training data, while enabling data providers to securely monetize their work.
+Our mission is to serve both humans and machines with the highest-quality AI training data, while enabling data providers to securely monetise their work.
 
 We're building the infrastructure layer for responsible AI development, making AI data discovery and access as seamless as shopping on Amazon.
