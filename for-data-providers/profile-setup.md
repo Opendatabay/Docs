@@ -39,6 +39,6 @@ To get started with your data provider profile on Opendatabay, follow these step
 
 * **Join Date**: Automatically set when you create your profile.
 * **Statistics**: Automatically keeps track of key statistics such as:
-  * Number of Data Collections
+  * Number of Data Products Listed
   * Total Downloads
   * Sales This Month

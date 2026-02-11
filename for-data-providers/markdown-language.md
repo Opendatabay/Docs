@@ -2,7 +2,7 @@
 description: >-
   This Markdown Language page will guide you through fundamental Markdown
   features that you can seamlessly integrate into the Provider profile About
-  section and Collection About section.
+  section and Data Product About section.
 ---
 
 # Markdown Language
@@ -89,7 +89,7 @@ Explore further information about Markdown in the [Markdown Guide](https://www.m
 
 #### Support and Feedback <a href="#support-and-feedback" id="support-and-feedback"></a>
 
-If you encounter any issues, have questions, or wish to provide feedback about the Opendatabay Profile or Collection View feature, please reach out to our support team at [support@opendatabay.com](mailto:support@opendatabay.com).
+If you encounter any issues, have questions, or wish to provide feedback about the Opendatabay Profile or Data Product Pages, please reach out to our support team at [support@opendatabay.com](mailto:support@opendatabay.com).
 
 We appreciate your feedback and are here to help with any inquiries you may have.
 
