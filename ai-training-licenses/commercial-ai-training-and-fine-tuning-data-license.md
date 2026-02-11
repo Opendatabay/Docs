@@ -8,7 +8,7 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE – COMMERCIAL USE, VERSIO
 *For production AI systems, SaaS, APIs, and monetised outputs.*
 
 > **Platform-Specific License Notice:** > This License is issued by **Opendatabay** (www.opendatabay.com) to support both Data Suppliers and Data Buyers.  
-> Its use outside the Opendatabay platform, or without Opendatabay’s knowledge and authorization, is strictly prohibited.  
+> Its use outside the Opendatabay platform, or without Opendatabay’s knowledge and authorisation, is strictly prohibited.  
 > This License applies to Data Products listed on Opendatabay or provided via the platform, including samples, previews, or full datasets.
 
 
@@ -67,7 +67,7 @@ Licensee may not:
 - Use the Data Product in ways that violate applicable laws or regulations, including discrimination, unlawful surveillance, or other prohibited applications.
 
 #### 3.2 Separate Licensing for Other Uses
-For uses outside AI training/fine-tuning (e.g., analytics, visualization, reporting, or general data services), contact Licensor for separate licensing terms.
+For uses outside AI training/fine-tuning (e.g., analytics, visualisation, reporting, or general data services), contact Licensor for separate licensing terms.
 
 ### **4. Models, Derivatives, and Redistribution Rights**
 
@@ -108,7 +108,7 @@ Licensee represents that it is not subject to trade sanctions or export restrict
 Licensee acknowledges that AI models may generate outputs subject to export controls and is responsible for implementing appropriate compliance measures, including Technology Control Plans where foreign nationals access internal models.
 
 #### 5.3 Data Security and Protection
-Licensee must implement appropriate technical and organizational measures to protect the Data Product from unauthorized access, disclosure, or misuse.
+Licensee must implement appropriate technical and organisational measures to protect the Data Product from unauthorised access, disclosure, or misuse.
 
 #### 5.4 High-Risk AI Systems
 For high-risk AI systems under EU AI Act or similar regulations, Licensee must maintain appropriate audit trails, bias assessments, and risk management documentation.
@@ -122,7 +122,7 @@ For general-purpose AI models covered by EU AI Act Article 53, Licensee acknowle
 Licensee may keep copies of the Data Product only as long as needed for training, evaluation, or development of Models, and in line with applicable laws.
 
 #### 6.2 Deletion
-Upon termination of this License (subject to Section 10.2) or written request from the Licensor, Licensee must promptly delete or irreversibly anonymize all copies of the Data Product, except for copies retained in standard backup systems that are scheduled for automatic deletion within a reasonable timeframe.
+Upon termination of this License (subject to Section 10.2) or written request from the Licensor, Licensee must promptly delete or irreversibly anonymise all copies of the Data Product, except for copies retained in standard backup systems that are scheduled for automatic deletion within a reasonable timeframe.
 
 #### 6.3 Models & Derivatives
 Licensee may retain Models, Derivative Works, logs, and metadata indefinitely, provided the Data Product itself cannot be reconstructed from these materials.
@@ -216,7 +216,7 @@ This License starts on the Effective Date and continues perpetually, subject to 
 
 **For all other termination scenarios:**
 - All rights to use the Data Product end immediately.
-- Deletion/anonymization obligations in Section 6.2 apply.
+- Deletion/anonymisation obligations in Section 6.2 apply.
 - Licensee may continue to use Models and Derivative Works created before termination under the terms of this License.
 - Sections 4.4, 7, 8, 9, and 10 survive termination.
 
@@ -230,7 +230,7 @@ Each party is responsible for keeping its contact information current and notify
 
 #### 10.5 Assignment
 Licensee may not assign, transfer, or delegate its rights or obligations under this License without Licensor’s prior written consent, which shall not be unreasonably withheld.
-Licensor may assign this License to affiliates or in connection with a merger, acquisition, corporate reorganization, or sale of substantially all assets related to the Data Product, provided the assignee agrees to be bound by this License.
+Licensor may assign this License to affiliates or in connection with a merger, acquisition, corporate reorganisation, or sale of substantially all assets related to the Data Product, provided the assignee agrees to be bound by this License.
 Any attempted assignment in violation of this section is void.
 
 #### 10.6 Entire Agreement and Amendments

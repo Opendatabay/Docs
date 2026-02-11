@@ -40,11 +40,11 @@ Pay based on the amount of data accessed or the number of API calls made, perfec
 
 ### 4. Data Reports
 
-Customized data reports tailored to specific requirements, where pricing is determined per report, ideal for users seeking in-depth, specialised insights without the need to purchase raw data.
+Customised data reports tailored to specific requirements, where pricing is determined per report, ideal for users seeking in-depth, specialised insights without the need to purchase raw data.
 
 **Best for:**
 - Executive summaries and insights
-- Custom analysis and visualizations
+- Custom analysis and visualisations
 - Market research reports
 - Specialised industry intelligence
 

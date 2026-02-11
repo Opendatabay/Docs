@@ -34,7 +34,7 @@ Opendatabay requires data providers to:
 The following data types are **strictly prohibited** on Opendatabay:
 
 **Personal Information:**
-- Personally Identifiable Information (PII) without proper anonymization
+- Personally Identifiable Information (PII) without proper anonymisation
 - Email addresses, phone numbers, or contact databases
 - Social security numbers, government IDs
 - Medical records with PII

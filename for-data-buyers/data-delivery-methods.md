@@ -38,10 +38,10 @@ Pre-generated or custom reports delivered as documents.
 
 **How it works:**
 - Buyer submits report request
-- Provider generates customized report
+- Provider generates customised report
 - Delivered as PDF or interactive format
 
-**Best for:** Analyzed insights, executive summaries, custom visualizations
+**Best for:** Analyzed insights, executive summaries, custom visualisations
 
 ---
 

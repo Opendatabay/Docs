@@ -26,7 +26,7 @@ All listed datasets on Opendatabay are **automatically indexed** by major search
 **Benefits:**
 - Start your search where you already work
 - No need to visit the platform first
-- SEO-optimized listings for better discoverability
+- SEO-optimised listings for better discoverability
 
 ---
 
@@ -103,7 +103,7 @@ Each search result includes an **accuracy score** indicating how well the datase
 
 ## Ask AI Feature
 
-For personalized assistance, use our **[Ask AI](https://www.opendatabay.com/ask-ai)** feature.
+For personalised assistance, use our **[Ask AI](https://www.opendatabay.com/ask-ai)** feature.
 
 **What Ask AI does:**
 - Answers questions about datasets and pricing
@@ -154,7 +154,7 @@ For personalized assistance, use our **[Ask AI](https://www.opendatabay.com/ask-
 
 **Can't find what you're looking for?**
 
-- Use **[Ask AI](https://www.opendatabay.com/ask-ai)** for personalized assistance
+- Use **[Ask AI](https://www.opendatabay.com/ask-ai)** for personalised assistance
 - Contact data providers directly through their listings
 - Reach out to **support@opendatabay.com** for help with discovery
 

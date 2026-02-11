@@ -46,7 +46,7 @@ The highest-demand datasets are:
 
 ### 5. Clean Logs & Documentation
 
-* Well-organized system logs
+* Well-organised system logs
 * API documentation
 * Technical specifications
 * Structured operational data
@@ -117,7 +117,7 @@ The highest-demand datasets are:
 
 * **Collection methods:** How was the data gathered?
 * **Cleaning process:** What preprocessing was done?
-* **Data structure:** Schema, format, organization
+* **Data structure:** Schema, format, organisation
 * **Quality checks:** Validation and testing performed
 * **Limitations:** Known issues or biases
 * **Provenance:** Full data lineage
@@ -275,6 +275,6 @@ In 2026, **quality beats quantity**. AI teams will pay premium prices for:
 * Domain-specific, curated data
 * Datasets that save preprocessing time
 
-**Need help creating high-quality data products?** Opendatabay offers a paid service to help you identify use cases, define target audiences, bundle data products effectively, and optimize listings for maximum discoverability and sales.
+**Need help creating high-quality data products?** Opendatabay offers a paid service to help you identify use cases, define target audiences, bundle data products effectively, and optimise listings for maximum discoverability and sales.
 
 Focus on creating data products that solve real problems, list on Opendatabay and the market will reward you.

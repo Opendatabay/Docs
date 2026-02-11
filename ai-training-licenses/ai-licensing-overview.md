@@ -14,7 +14,7 @@ Traditional data licenses were designed for analytics, reporting, and business i
 
 **AI training licenses protect you from:**
 
-- Unauthorized model training and fine-tuning on your data
+- Unauthorised model training and fine-tuning on your data
 - Loss of control over how AI models use your datasets
 - Unclear terms around model outputs and derivative works
 - Missing revenue opportunities from AI-specific use cases
@@ -36,7 +36,7 @@ Traditional data licenses don't cover:
 
 - **Model ownership**: Who owns the trained AI model?
 - **Derivative works**: Can you share fine-tuned weights or embeddings?
-- **Reconstruction risks**: What if the model memorizes training data?
+- **Reconstruction risks**: What if the model memorises training data?
 - **AI-specific compliance**: EU AI Act transparency, export controls for AI models
 - **Downstream liability**: Who's responsible when open-weight models are misused?
 
@@ -63,7 +63,7 @@ Opendatabay provides **two specialised AI training licenses** designed to meet d
 - Academic researchers and universities
 - Open-source AI communities
 - Students and educators
-- Non-profit organizations
+- Non-profit organisations
 
 ### Commercial AI Training and Fine-Tuning Data License
 

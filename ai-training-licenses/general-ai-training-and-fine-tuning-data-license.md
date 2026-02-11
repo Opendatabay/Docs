@@ -8,7 +8,7 @@ description: AI TRAINING AND FINE TUNING DATA LICENSE – GENERAL USE, VERSION 1
 *For internal AI training, evaluation, and research; not for commercial deployment or monetisation.*
 
 > **Platform-Specific License Notice:** > This License is issued by **Opendatabay** (www.opendatabay.com) to support both Data Suppliers and Data Buyers.  
-> Its use outside the Opendatabay platform, or without Opendatabay’s knowledge and authorization, is strictly prohibited.  
+> Its use outside the Opendatabay platform, or without Opendatabay’s knowledge and authorisation, is strictly prohibited.  
 > This License applies to Data Products listed on Opendatabay or provided via the platform, including samples, previews, or full datasets.
 
 
@@ -83,7 +83,7 @@ Licensee may create Models using the Data Product, including training, fine-tuni
 Licensee may not redistribute or sublicense the original Data Product itself.
 
 #### 4.3 Sharing of Models and Derivative Works
-Licensee may share Models and Derivative Works **only within the Licensee’s organization** for research or educational purposes. External distribution is prohibited unless the underlying Data Product is not exposed and the distribution is strictly non-commercial (e.g., academic collaboration).
+Licensee may share Models and Derivative Works **only within the Licensee’s organisation** for research or educational purposes. External distribution is prohibited unless the underlying Data Product is not exposed and the distribution is strictly non-commercial (e.g., academic collaboration).
 
 **Safe Harbor for Model Outputs:** The inadvertent, non-systematic reproduction of insignificant portions of the Data Product by a Model (e.g., through overfitting or stochastic generation) shall not constitute a breach of this Section, provided that the Licensee has not intentionally engineered the Model to act as a database or substitute for the Data Product.
 
@@ -104,7 +104,7 @@ Licensee must comply with all applicable laws, including:
 Licensee represents that it is not subject to trade sanctions or export restrictions under applicable law. Licensee will not use the Data Product or Models in violation of export control laws including U.S. Export Administration Regulations (EAR), International Traffic in Arms Regulations (ITAR), or equivalent regulations.
 
 #### 5.3 Data Security and Protection
-Licensee must implement appropriate technical and organizational measures to protect the Data Product from unauthorized access, disclosure, or misuse.
+Licensee must implement appropriate technical and organisational measures to protect the Data Product from unauthorised access, disclosure, or misuse.
 
 #### 5.4 High-Risk AI Systems
 Licensee may not use the Data Product for high-risk AI systems in production environments under this license.
@@ -118,7 +118,7 @@ For general-purpose AI models covered by EU AI Act Article 53, Licensee acknowle
 Licensee may keep copies of the Data Product only as long as needed for internal training, evaluation, or research, and in line with applicable laws.
 
 #### 6.2 Deletion
-Upon termination of this License (subject to Section 10.2) or written request from the Licensor, Licensee must promptly delete or irreversibly anonymize all copies of the Data Product, except for copies retained in standard backup systems that are scheduled for automatic deletion within a reasonable timeframe.
+Upon termination of this License (subject to Section 10.2) or written request from the Licensor, Licensee must promptly delete or irreversibly anonymise all copies of the Data Product, except for copies retained in standard backup systems that are scheduled for automatic deletion within a reasonable timeframe.
 
 #### 6.3 Models & Derivatives
 Licensee may retain Models, Derivative Works, logs, and metadata indefinitely, provided the Data Product itself cannot be reconstructed from these materials.
@@ -170,7 +170,7 @@ Licensor agrees to indemnify, defend, and hold harmless Licensee from and agains
 
 #### 9.2 Licensee Indemnification
 Licensee agrees to indemnify, defend, and hold harmless Licensor from and against any third-party claims, damages, losses, or expenses (including reasonable attorneys’ fees) arising from:
-- Licensee’s use of the Data Product, Models, or Derivative Works in violation of this License (including unauthorized Commercial Use).
+- Licensee’s use of the Data Product, Models, or Derivative Works in violation of this License (including unauthorised Commercial Use).
 - Licensee’s violation of applicable laws or regulations.
 
 ### **10. Term, Termination, and General Terms**
@@ -189,7 +189,7 @@ This License starts on the Effective Date and continues perpetually, subject to 
 
 **For all other termination scenarios:**
 - All rights to use the Data Product end immediately.
-- Deletion/anonymization obligations in Section 6.2 apply.
+- Deletion/anonymisation obligations in Section 6.2 apply.
 - Licensee may continue to use Models and Derivative Works created before termination under the terms of this License.
 - Sections 4.4, 7, 8, 9, and 10 survive termination.
 
@@ -217,4 +217,4 @@ The parties acknowledge that this License is facilitated by Opendatabay. The par
 ### **END OF LICENSE**
 This license provides balanced protection for both data sellers and buyers, with clear definitions, fair termination provisions, symmetric confidentiality, proportional liability, and compliance with current AI regulations including EU AI Act requirements and export control considerations.
 
->  © [2026] Opendatabay. All Rights Reserved. This license is the proprietary intellectual property of Opendatabay. It is licensed for use solely for transactions facilitated by or authorized by Opendatabay. Unauthorized reproduction, modification, or distribution of this legal text for use on competing platforms or external transactions without Opendatabay’s express written consent is strictly prohibited and may result in legal action.
+>  © [2026] Opendatabay. All Rights Reserved. This license is the proprietary intellectual property of Opendatabay. It is licensed for use solely for transactions facilitated by or authorised by Opendatabay. Unauthorised reproduction, modification, or distribution of this legal text for use on competing platforms or external transactions without Opendatabay’s express written consent is strictly prohibited and may result in legal action.

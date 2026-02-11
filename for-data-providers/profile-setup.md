@@ -10,8 +10,8 @@ To get started with your data provider profile on Opendatabay, follow these step
 
 **1. Basic Information**
 
-* **Provider Name**: Enter the name of your organization (Company Name) or data provider name. (Max 20 Characters)
-* **Description**: Provide a comprehensive description of your organization (About), the type of data you offer, and any relevant background information. You can enhance your description using [Markdown](markdown-language.md) (.MD) language, which allows for better formatting and more options. For example, you can include:
+* **Provider Name**: Enter the name of your organisation (Company Name) or data provider name. (Max 20 Characters)
+* **Description**: Provide a comprehensive description of your organisation (About), the type of data you offer, and any relevant background information. You can enhance your description using [Markdown](markdown-language.md) (.MD) language, which allows for better formatting and more options. For example, you can include:
   * **Headings**: Use `#` for headings.
   * **Bold and Italics**: Use `**bold**` or `_italic_` for emphasis.
   * **Lists**: Create bullet points with `-` or `*`.
@@ -29,7 +29,7 @@ To get started with your data provider profile on Opendatabay, follow these step
 
 **3. Location and Contact Details**
 
-* **Location**: Specify the geographic location of your organization. Town and Country
+* **Location**: Specify the geographic location of your organisation. Town and Country
 * **Contact Information**: Provide contact details for assistance, licensing inquiries, and dataset requests.&#x20;
   * Email address
   * Website
