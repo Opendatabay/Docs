@@ -77,7 +77,7 @@ Use the **search bar** at the top of the Opendatabay platform (navbar) for insta
 - Ask specific questions: "What datasets work best for training LLMs?"
 
 **How it works:**
-- Our AI engine analyzes your query
+- Our AI engine analyses your query
 - Matches you with the most suitable datasets
 - Returns ranked results with **accuracy scores**
 

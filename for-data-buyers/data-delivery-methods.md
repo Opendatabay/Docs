@@ -41,7 +41,7 @@ Pre-generated or custom reports delivered as documents.
 - Provider generates customised report
 - Delivered as PDF or interactive format
 
-**Best for:** Analyzed insights, executive summaries, custom visualisations
+**Best for:** Analysed insights, executive summaries, custom visualisations
 
 ---
 
