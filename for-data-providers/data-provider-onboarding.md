@@ -33,7 +33,7 @@ After registration, you'll complete a self-onboarding process:
 
 Select **"Data Provider (Seller)"**
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Business Information
 
@@ -48,7 +48,7 @@ Provide:
 
 **Important:** We currently only accept **registered businesses** (Ltd, LLC, GmbH, etc.). Individual sellers and self-employed providers cannot list data products.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Business Description
 
@@ -60,7 +60,7 @@ Provide:
 
 
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -68,7 +68,7 @@ Provide:
 
 After onboarding, you'll access your public profile page (not yet visible to others).
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Add:**
 
@@ -76,7 +76,7 @@ After onboarding, you'll access your public profile page (not yet visible to oth
 * Extended company description
 * Additional business details
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Click "Verify My Account"** to submit for review.
 

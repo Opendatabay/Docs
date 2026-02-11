@@ -4,71 +4,84 @@ description: Setting Up Your Collection on Opendatabay
 
 # Listing Data Product
 
-To effectively set up your data collection page on Opendatabay, ensure all required fields are completed. Here’s a guide to help you through the process:
+To effectively create your data product listing page on Opendatabay, ensure all required fields are completed. Here’s a guide to help you through the process:
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### **Step 1/2**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Required Fields**
 
-1. **Name**
-   * **Field**: Collection Name (**Example**: My Collection Name)
-2. **Collection Category**
-   *   **Field**: Select the most appropriate category for your collection from the following list:
+1.  **Name**
+
+    * **Field**: Data Product Name (**Example**: 20k Hours Real Interview Video Conversations for AI Training)
+
+
+2. **Master  Category**
+   *   **Field**: Select the most appropriate master category for your collection from the following list:
 
 
 
        ```xml
-           "Aerospace & Aviation",
-           "Agriculture & Farming",
-           "Animal Behavior & Conservation",
-           "Art & Digital Creations",
-           "Automotive & Traffic Patterns",
-           "Biodiversity & Conservation",
-           "Consumer Electronics Usage",
-           "Cultural & Historical Records",
-           "E-commerce & Online Transactions",
-           "Entertainment & Media Consumption",
-           "Environmental Monitoring",
-           "Fashion & Apparel Trends",
-           "Food & Beverage Consumption",
-           "Government & Civic Records",
-           "Hospitality & Tourism",
-           "Human Resources & Employment Data",
-           "Legal & Legislation Data",
-           "Local & Global Weather Patterns",
-           "Logistics & Fulfillment Data",
-           "Marine & Aquatic Data",
-           "Natural Resources & Mining",
-           "Non-Profit & Philanthropy Activities",
-           "Public Health & Epidemiology",
-           "Public Safety & Security",
-           "Renewable Energy Sources",
-           "Retail & Consumer Behavior",
-           "Space & Astronomy",
-           "Sports & Recreation",
-           "Telecommunications & Network Data",
-           "Urban Planning & Infrastructure",
-           "Software and Technology",
-           "Mobile Applications, Games, and Usage",
-           "Social Media and Networking",
-           "Data Science and Analytics",
-           "Machine Learning and AI",
-           "Website Analytics & User Experience",
-           "Synthetic Data Generation",
-           "Reviews & Ratings",
+         
+       Uncategorised
+       Synthetic Data
+       AI/ML Training & NLP Data
+       Healthcare Data
+       Financial Data
+       Web & Social Media Data
+       Consumer & Product Data
+       Science & Research Data
+       Government & Public Data
+       Premium Data (All Subcategories)',
+
        ```
-3. **Related Searches**
-   * **Field**: Search Tags (**Example**: Tourism, Healthcare, Records, Non-PII, Public, Statistic, Report)
-4. **Collection Promo Image**
-   * **Field**: Upload a promotional image for your collection.
+3. **Collection Sub Category**
+   *   **Field**: Select the most appropriate subcategory for your listing
+
+
+4.  **Tags and Related Searches**
+
+    * **Field**: Search Tags (**Example**: Synthetic, Corpora, Labelled, Human curated)
+
+
+
+### Step 2/2&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+1. **Data Delivery Method**
+   * **Field**:&#x20;
+2. **Data License**
+   * **Field**:&#x20;
+3. **AI Training and LLM Use License**
+   * **Field**:&#x20;
+4. **Geography Region**
+   * **Field:**
+
+
+
+### Finalising Data product listing&#x20;
+
+Click on the newly created data product and select **Edit Details**\
+This will allow you to finish data product setup, upload the image and data.&#x20;
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+1. **Data Product Promo Image**
+   * **Field**: Upload a promotional image for your listing.
    * **Format**: PNG, JPEG, WEBP
    * **Dimensions**: 600x400 pixels
 
 <figure><img src="../.gitbook/assets/Collection Promo Guides.png" alt=""><figcaption><p>Collection  Promo Image </p></figcaption></figure>
 
-5. **Description**
+**Description**
 
 **About**: Provide a detailed description of your data collection.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Collection Description Guides</p></figcaption></figure>
 
 * **Guidance**: The description can be written in Markdown language (.MD) for better formatting and more options.
   *   **Example**:
@@ -83,36 +96,42 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
       - **License**: Open Data License, allowing free use, redistribution, and modification with attribution
       ```
 
-6. **Dataset Information**
-   * **License**: Specify the dataset's license (e.g., CC BY-SA 4.0) See [Licenses](/broken/pages/YWOAXpB2AfQxTKXcJP48) for more information
-   * **Region**: Specify the dataset's region (e.g., Global, Europe, North America)
-   * **Dataset Type**: Specify the dataset's type (e.g., Textual, Images, Videos)
-   *   **Version**: Automatically assigned with each update<br>
+**Dataset Information**
 
-       **Additional Information**
+* **License**: Specify the dataset's license (e.g., CC BY-SA 4.0) See [Licenses](/broken/pages/YWOAXpB2AfQxTKXcJP48) for more information
+* **Region**: Specify the dataset's region (e.g., Global, Europe, North America)
+* **Dataset Type**: Specify the dataset's type (e.g., Textual, Images, Videos)
+*   **Version**: Automatically assigned with each update<br>
 
-       * **Format**: CSV, JSON, ODBc, PDF, XLS, RDS, ODS
-       * **Records**: Number of records, Lines (e.g., 27 million)
-       * **Lines**: \[If applicable, specify any additional details about the dataset's structure or size]
-       * **Updated**: Date of last update ( e.g., dd/mm/yyyy)
-       * **Purchase type**: Type of purchase ( eg., One-off purchase, API, Subscription)
-7. **Price**
+    **Additional Information**
 
-* **Field**: Price in GBP (**Example**: £9999)
+    * **Format**: CSV, JSON, ODBc, PDF, XLS, RDS, ODS
+    * **Records**: Number of records, Lines (e.g., 27 million)
+    * **Lines**: \[If applicable, specify any additional details about the dataset's structure or size]
+    * **Updated**: Date of last update ( e.g., dd/mm/yyyy)
+    * **Purchase type**: Type of purchase ( eg., One-off purchase, API, Subscription)
 
-#### Final Steps
+
+
+Final Steps
 
 1. **Review All Information**: Ensure all fields are accurately filled out and all required information fields are populated.
 2. **Save**: Once reviewed, save your collection page&#x20;
 
-## Preview Collection card, description
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Your collection card will be available to public on the marketplace page
+## List For Sale
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
+Click on your listing and select List For Sale<br>
 
-Additionally, newly listed collection cards will be added to provider's profile.<br>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Collection Card on Provider's Profile</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+Confirm that you have the right to list and sell data\
+Agree to the listing terms and conditions\
+Confirm that you are familiar with platform listing fees and charges\
+\
+Set the price in GBP and list your product for sale.<br>
 
 By following these steps, you will create a detailed, visually appealing, and professional data collection page that attracts buyers and facilitates smooth transactions on Opendatabay.

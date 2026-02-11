@@ -17,9 +17,7 @@ AI developers waste 40-60% of project time sourcing, cleaning, and licensing tra
 
 Opendatabay makes AI-ready datasets instantly discoverable, legally compliant, and immediately usable.
 
-
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

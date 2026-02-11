@@ -23,9 +23,9 @@ layout:
 
 # AI and LLM Data Marketplace
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Welcome to **Opendatabay**, the go-to marketplace for high-quality AI and LLM training data. In the age of AI, data is the new gold, and we make sure you can access it safely, efficiently, and reliably. Our platform is built specifically to empower developers, researchers, and businesses working with AI models, making data discovery, sharing, and monetisation seamless.
 
@@ -49,4 +49,3 @@ At Opendatabay, we aim to **unlock the power of AI by democratising access to hi
 * **Ensures compliance** and responsible AI use with clear, platform-specific licensing.
 
 Join [Opendatabay Platform](https://www.opendatabay.com) and become part of a community driving the next generation of AI. Whether you’re training LLMs, experimenting with generative AI, or building agentic systems, Opendatabay gives you the **data foundation your models deserve**.
-
