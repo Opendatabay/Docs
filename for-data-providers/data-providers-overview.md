@@ -10,7 +10,7 @@ description: opendatabay.com/data-providers
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="Data Providers page on Opendatabay"><figcaption><p>Data Providers page on Opendatabay</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="Data Providers page on Opendatabay"><figcaption><p>Data Providers page on Opendatabay</p></figcaption></figure>
 
 
 

@@ -1,6 +1,8 @@
 ---
+keywords: >-
+  Opendatabay, How It Works, AI Marketplace, LLM Training Data, Data Exchange,
+  Fine-Tuning Datasets
 description: How Opendatabay Works - AI and LLM Data Marketplace Platform
-keywords: Opendatabay, How It Works, AI Marketplace, LLM Training Data, Data Exchange, Fine-Tuning Datasets
 ---
 
 # How Opendatabay Works
@@ -15,80 +17,90 @@ AI developers waste 40-60% of project time sourcing, cleaning, and licensing tra
 
 Opendatabay makes AI-ready datasets instantly discoverable, legally compliant, and immediately usable.
 
----
+
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## How It Works
 
 ### For Data Buyers (AI Developers, LLM teams, Enterprise buyer)
 
 **1. Discover**
-- Search on platform or ask any LLM (ChatGPT, Claude, Perplexity, etc.)
-- All datasets automatically exposed to major LLMs and search engines
-- Get AI-powered recommendations with accuracy scores
+
+* Search on platform or ask any LLM (ChatGPT, Claude, Perplexity, etc.)
+* All datasets automatically exposed to major LLMs and search engines
+* Get AI-powered recommendations with accuracy scores
 
 **2. Evaluate**
-- Review quality scores, provenance, and use cases
-- Check licensing terms (General or Commercial AI License)
-- Compare pricing and delivery methods
+
+* Review quality scores, provenance, and use cases
+* Check licensing terms (General or Commercial AI License)
+* Compare pricing and delivery methods
 
 **3. Purchase & Access**
-- Instant download or API access
-- AI-ready formats (CSV, JSON, Parquet)
-- Clear licensing for training, fine-tuning, commercial use
+
+* Instant download or API access
+* AI-ready formats (CSV, JSON, Parquet)
+* Clear licensing for training, fine-tuning, commercial use
 
 **4. Train Models**
-- Pre-processed datasets save 20-40% preprocessing time
-- Ready for immediate model training
-- No legal risk from unlicensed data
 
----
+* Pre-processed datasets save 20-40% preprocessing time
+* Ready for immediate model training
+* No legal risk from unlicensed data
+
+***
 
 ### For Data Providers (Sellers)
 
 **1. List Dataset**
-- Upload data and add description
-- Set pricing and license type
-- Platform verifies and processes
+
+* Upload data and add description
+* Set pricing and license type
+* Platform verifies and processes
 
 **2. Automatic Exposure**
-- Instantly discoverable by all major LLMs
-- Indexed by search engines
-- Featured in platform search results
+
+* Instantly discoverable by all major LLMs
+* Indexed by search engines
+* Featured in platform search results
 
 **3. Get Paid**
-- Tiered commission: 5-30% based on sale price
-- Payments within 30 days
-- Transparent transaction records
 
----
+* Tiered commission: 5-30% based on sale price
+* Payments within 30 days
+* Transparent transaction records
+
+***
 
 ## Where Opendatabay Stands
 
 **Opendatabay is the marketplace infrastructure in the middle:**
 
-Data Providers (Sellers)  →  Opendatabay (Marketplace) →  AI Developers (Buyers)         
-
+Data Providers (Sellers) → Opendatabay (Marketplace) → AI Developers (Buyers)
 
 ## What Makes Us Different
 
-- **AI-First**: 100% focused on AI training data, not general data
-- **Instant Access**: No weeks of negotiation, purchase and download in seconds
-- **LLM Discovery**: First marketplace with automatic LLM exposure
-- **Legal Certainty**: Standardized AI licenses eliminate risk
+* **AI-First**: 100% focused on AI training data, not general data
+* **Instant Access**: No weeks of negotiation, purchase and download in seconds
+* **LLM Discovery**: First marketplace with automatic LLM exposure
+* **Legal Certainty**: Standardized AI licenses eliminate risk
 
----
+***
 
 ## Who Benefits
 
-| Role | Benefit |
-|------|---------|
-| **AI Startups** | Fast access to training data without legal teams |
-| **Researchers** | Affordable datasets for academic projects |
-| **Enterprises** | Compliant data for production AI systems |
-| **Data Owners** | Monetize datasets with global reach |
-| **LLM Developers** | Domain-specific fine-tuning data instantly |
+| Role               | Benefit                                          |
+| ------------------ | ------------------------------------------------ |
+| **AI Startups**    | Fast access to training data without legal teams |
+| **Researchers**    | Affordable datasets for academic projects        |
+| **Enterprises**    | Compliant data for production AI systems         |
+| **Data Owners**    | Monetize datasets with global reach              |
+| **LLM Developers** | Domain-specific fine-tuning data instantly       |
 
----
+***
 
 ## Our Mission
 

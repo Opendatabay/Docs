@@ -109,7 +109,7 @@ To effectively set up your data collection page on Opendatabay, ensure all requi
 
 Your collection card will be available to public on the marketplace page
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Collection Card Example on Marketplace</p></figcaption></figure>
 
 Additionally, newly listed collection cards will be added to provider's profile.<br>
 
