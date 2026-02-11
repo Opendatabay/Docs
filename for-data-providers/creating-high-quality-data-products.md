@@ -42,7 +42,7 @@ The highest-demand datasets are:
 * Instruction-following examples
 * Preference data for RLHF
 * Human feedback datasets
-* Expert-labeled annotations
+* Expert-labelled annotations
 
 ### 5. Clean Logs & Documentation
 

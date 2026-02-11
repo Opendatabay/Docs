@@ -129,7 +129,7 @@ For personalized assistance, use our **[Ask AI](https://www.opendatabay.com/ask-
 
 ### Be Specific
 - ❌ "I need data"
-- ✅ "I need labeled customer review data for sentiment analysis training"
+- ✅ "I need labelled customer review data for sentiment analysis training"
 
 ### Include Key Details
 - Use case or application
