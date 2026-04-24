@@ -48,19 +48,26 @@ Provide:
 
 **Important:** We currently only accept **registered businesses** (Ltd, LLC, GmbH, etc.). Individual sellers and self-employed providers cannot list data products.
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Business Description
 
 Provide:
 
-* Brief description of your business
-* Overview of data products you plan to list
-* Data types and target use cases
+* About Your Company - This description will be public on your profile
 
+```javascript
+                  'e.g. "We are a specialist automotive photography studio with 30 years of experience, working with major OEMs and insurers across Europe. \n \nNamed the leading studio by Auto Imagery Magazine (2023), featured in Forbes, and with an active YouTube channel showcasing our work at youtube.com/ourstudio. Our clients include BMW, Allianz, and LV= Insurance. \n \nWe own 100% of all imagery and hold signed model releases for all subjects. Full data provenance documentation is available on request."'
+```
 
+* Explain your data offering - This description will be used to verify your business
 
-<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<pre class="language-javascript"><code class="lang-javascript"><strong>'e.g. "We plan to list 3 data products under commercial AI training license, no third party rights apply.  \n \n20K high-res vehicle part images, object-labelled, ideal for computer vision and defect detection models. 10K high-res images of damaged vehicles, numberplates anonymised, suitable for insurance damage assessment and repair estimation models. 50K close-up paint and body panel images labelled by defect type (scratch, dent, corrosion), ideal for damage severity grading models.
+</strong></code></pre>
+
+* How did you hear about us ?
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

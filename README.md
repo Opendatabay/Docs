@@ -2,23 +2,6 @@
 description: The fastest platform to legally fine-tune LLMs with AI-ready datasets
 cover: .gitbook/assets/Odb long Banner.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # AI and LLM Data Marketplace
