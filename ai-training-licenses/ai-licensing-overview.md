@@ -91,7 +91,7 @@ Opendatabay provides **two specialised AI training licenses** designed to meet d
 | **Commercial Use** | ❌ No | ✅ Yes |
 | **Model Distribution** | Research only | ✅ Unlimited |
 | **AI Services/APIs** | ❌ No | ✅ Yes |
-| **Sublicensing** | ❌ No | ✅ Yes |
+| **Sublicensing of Models ** | ❌ No | ✅ Yes |
 | **Use Case** | Research & Learning, POC | Production & Revenue |
 
 ## What Both Licenses Cover
