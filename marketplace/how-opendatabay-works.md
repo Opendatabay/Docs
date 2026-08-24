@@ -15,6 +15,9 @@ When the data already exists, we help buyers find it.
 
 When a required dataset is not currently available, we help source bespoke data requirements.
 
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
 ---
 
 ## The Problem
@@ -44,21 +47,21 @@ Search the marketplace or submit a specific data requirement.
 
 Buyers can discover:
 
-- Existing off-the-shelf datasets
-- Licensed AI training data products
-- Domain-specific datasets
-- Bespoke data requirements
+* Existing off-the-shelf datasets
+* Licensed AI training data products
+* Domain-specific datasets
+* Bespoke data requirements
 
 ### 2. Evaluate
 
 Review:
 
-- Dataset metadata
-- Samples and previews
-- Licensing terms
-- Provenance information
-- Quality information
-- Delivery options
+* Dataset metadata
+* Samples and previews
+* Licensing terms
+* Provenance information
+* Quality information
+* Delivery options
 
 ### 3. Source
 
@@ -78,11 +81,11 @@ Acquire the rights required for the intended AI use, including training, fine-tu
 
 Providers can list data products with:
 
-- Dataset descriptions
-- Metadata
-- Samples or previews
-- Licensing information
-- Pricing information
+* Dataset descriptions
+* Metadata
+* Samples or previews
+* Licensing information
+* Pricing information
 
 Opendatabay does not require providers to upload or transfer the underlying dataset to list a product.
 
@@ -96,10 +99,10 @@ Providers retain control and custody of their underlying datasets.
 
 For marketplace discovery, Opendatabay typically works with:
 
-- Dataset metadata
-- Product descriptions
-- Licensing information
-- Samples or previews
+* Dataset metadata
+* Product descriptions
+* Licensing information
+* Samples or previews
 
 Opendatabay does not need to receive, store, copy or redistribute the underlying dataset.
 
@@ -111,10 +114,10 @@ When a transaction takes place, the Data Provider can deliver the dataset direct
 
 Examples include:
 
-- Customer cloud storage
-- Approved S3 buckets
-- Secure data environments
-- Other agreed delivery methods
+* Customer cloud storage
+* Approved S3 buckets
+* Secure data environments
+* Other agreed delivery methods
 
 Opendatabay can facilitate the commercial transaction and licensing process without taking custody of the underlying data.
 
@@ -134,19 +137,23 @@ Opendatabay applies a transparent commission structure based on the transaction 
 
 Opendatabay sits between **AI demand and data supply**.
 
-AI Labs / Enterprises
-      ↓
-Opendatabay
-      ↓
-Verified Data Providers
+**AI Labs / Enterprises**
+
+↓
+
+**Opendatabay**
+
+↓
+
+**Verified Data Providers**
 
 The supply chain may also include other organisations such as:
 
-- Procurement partners
-- Data companies
-- Data collection companies
-- Labelling companies
-- Other approved intermediaries
+* Procurement partners
+* Data companies
+* Data collection companies
+* Labelling companies
+* Other approved intermediaries
 
 Opendatabay operates as the marketplace and commercial brokerage layer connecting demand with suitable supply.
 
@@ -192,19 +199,30 @@ Our focus is licensed data with clear rights for AI use rather than scraped or u
 
 # The Opendatabay Marketplace Flow
 
-AI company searches for data
-      ↓
-Requirement submitted or discovered
-      ↓
-Opendatabay identifies suitable providers
-      ↓
-Data availability, licensing and pricing evaluated
-      ↓
-Commercial agreement completed
-      ↓
-Provider delivers data directly to approved buyer environment
-      ↓
-AI company receives licensed data
+1. **AI company searches for data**
+
+2. **Requirement submitted or discovered**
+
+3. **Opendatabay identifies suitable providers**
+
+4. **Data availability, licensing and pricing evaluated**
+
+5. **Commercial agreement completed**
+
+6. **Provider delivers data directly to approved buyer environment**
+
+7. **AI company receives licensed data**
+
+---
+## Who Benefits
+
+| Role | Benefit |
+| ------------------------------ | ------------------------------------------------ |
+| **AI Companies & Labs** | Discover and license verified training data for AI development |
+| **Enterprise AI Teams** | Source legally licensed data with clearer provenance and usage rights |
+| **Data Providers** | Reach new AI customers while retaining control of their underlying data |
+| **Data Companies & Brokers** | Access additional commercial opportunities through a trusted marketplace channel |
+| **AI Engineers & Researchers** | Find domain-specific datasets for model training, evaluation and experimentation |
 
 ---
 
@@ -215,3 +233,4 @@ We are building the infrastructure that connects **AI demand with the world's da
 Our goal is to make discovering, sourcing, verifying and licensing AI training data faster, safer and more accessible.
 
 Opendatabay is building the marketplace infrastructure for the next generation of AI data.
+
