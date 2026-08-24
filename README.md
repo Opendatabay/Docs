@@ -8,7 +8,7 @@ coverY: 0
 
 <figure><img src=".gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Welcome to **Opendatabay**, the go-to marketplace for high-quality AI and LLM training data. In the age of AI, data is the new gold, and we make sure you can access it safely, efficiently, and reliably. Our platform is built specifically to empower developers, researchers, and businesses working with AI models, making data discovery, sharing, and monetisation seamless.
 

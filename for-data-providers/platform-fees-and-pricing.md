@@ -23,23 +23,31 @@ For transaction values within a range, the applicable commission rate decreases 
 
 Visit our [Platform Fee Calculator](https://opendatabay.com/legal/fees#calculator) to see exactly what you'll receive.
 
-{% embed url="https://opendatabay.com/embed/calculator" %}
+{% embed url="https://www.opendatabay.com/legal/fees#calculator" %}
 
 ### Examples
 
-**Example 1:** Selling a dataset for £2,500 → Opendatabay fee is 23.75% (£593.75) and the seller receives £1,906.25.
+**Example 1:** Selling a dataset for £2,500 → Opendatabay fee is 24% (£604) and the seller receives £1,896
 
-**Example 2:** Selling a dataset for £25,000 → Opendatabay fee is 15% (£3,750) and the seller receives £21,250.
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+**Example 2:** Selling a dataset for £31,000 → Opendatabay fee is 14% (£4,278) and the seller receives £26,720.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Example 3:** Selling a dataset for £50,000 → Opendatabay fee is 10% (£5,000) and the seller receives £45,000.
 
-**Example 4:** Selling a dataset for £100,000 → Opendatabay fee is approximately 8.75% (£8,750) and the seller receives approximately £91,250.
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+**Example 4:** Selling a dataset for £160,000 → Opendatabay fee is approximately 7% (£11,600) and the seller receives approximately £148,400.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 **Example 5:** Selling a dataset for £250,000 → Opendatabay fee is 5% (£12,500) and the seller receives £237,500.
 
-**Example 6:** Selling a dataset for £600,000 → Opendatabay fee is 5% (£30,000) and the seller receives £570,000.
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-The Opendatabay listing interface displays the applicable fee, fee amount and expected seller payout before a Data Provider publishes or updates a product.
+For transactions above £250,000, the Opendatabay commission is capped at 5%, meaning the Data Provider receives 95% of the sale price.
 
 ***
 
@@ -51,7 +59,7 @@ Payments will be made via **bank transfer**.
 
 ### Currency
 
-All payments are made in **GBP (£)**.
+All payments are made in **GBP (£) or USD ($)**
 
 ### Payout Thresholds
 
