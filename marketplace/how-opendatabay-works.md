@@ -199,19 +199,31 @@ Our focus is licensed data with clear rights for AI use rather than scraped or u
 
 # The Opendatabay Marketplace Flow
 
-1. **AI company searches for data**
+**AI company searches for data**
 
-2. **Requirement submitted or discovered**
+↓
 
-3. **Opendatabay identifies suitable providers**
+**Requirement submitted or discovered**
 
-4. **Data availability, licensing and pricing evaluated**
+↓
 
-5. **Commercial agreement completed**
+**Opendatabay identifies suitable providers**
 
-6. **Provider delivers data directly to approved buyer environment**
+↓
 
-7. **AI company receives licensed data**
+**Data availability, licensing and pricing evaluated**
+
+↓
+
+**Commercial agreement completed**
+
+↓
+
+**Provider delivers data directly to approved buyer environment**
+  
+↓
+
+**AI company receives licensed data**
 
 ---
 ## Who Benefits
