@@ -1,107 +1,217 @@
 ---
 keywords: >-
-  Opendatabay, How It Works, AI Marketplace, LLM Training Data, Data Exchange,
-  Fine-Tuning Datasets
-description: How Opendatabay Works - AI and LLM Data Marketplace Platform
+  Opendatabay, AI Training Data, Licensed AI Data, AI Data Marketplace,
+  LLM Training Data, Robotics Data, Data Infrastructure
+description: Opendatabay is infrastructure for legal AI training data, connecting AI demand with verified data supply.
 ---
 
 # How Opendatabay Works
 
-Opendatabay is the **AI Training Data Exchange** connecting data providers with AI developers, reducing data acquisition from weeks to seconds.
+Opendatabay is **infrastructure for legal AI training data**.
 
-## The Purpose
+We connect AI companies with verified data providers, helping buyers discover, source and license data for AI training, fine-tuning, evaluation and other AI applications.
 
-**We solve the AI data supply problem.**
+When the data already exists, we help buyers find it.
 
-AI developers waste 40-60% of project time sourcing, cleaning, and licensing training data. The end of free scraping has created a data crisis, while existing solutions require weeks of manual negotiation.
+When a required dataset is not currently available, we help source bespoke data requirements.
 
-Opendatabay makes AI-ready datasets instantly discoverable, legally compliant, and immediately usable.
+---
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+## The Problem
 
-***
+AI companies increasingly need proprietary, legally licensed data for training, fine-tuning, evaluation and AI applications.
 
-## How It Works
+But the data they need is often:
 
-### For Data Buyers (AI Developers, LLM teams, Enterprise buyers)
+- difficult to discover
+- fragmented across providers
+- unclear in provenance
+- difficult to license
+- unavailable as an existing product
+- expensive and slow to source
 
-**1. Discover**
+Opendatabay brings the supply and demand sides together.
 
-* Search on the platform or ask any LLM (ChatGPT, Claude, Perplexity, etc.)
-* All datasets are automatically exposed to major LLMs and search engines
-* Get AI-powered recommendations with accuracy scores
+---
 
-**2. Evaluate**
+# How It Works
 
-* Review quality scores, provenance, and use cases
-* Check licensing terms (General or Commercial AI License)
-* Compare pricing and delivery methods
+## For Data Buyers (AI Developers, LLM Teams, Enterprise Buyers)
 
-**3. Purchase & Access**
+### 1. Discover
 
-* Instant download or API access
-* AI-ready formats (CSV, JSON, Parquet)
-* Clear licensing for training, fine-tuning, commercial use
+Search the marketplace or submit a specific data requirement.
 
-**4. Train Models**
+Buyers can discover:
 
-* Pre-processed datasets save 20-40% preprocessing time
-* Ready for immediate model training
-* No legal risk from unlicensed data
+- Existing off-the-shelf datasets
+- Licensed AI training data products
+- Domain-specific datasets
+- Bespoke data requirements
 
-***
+### 2. Evaluate
 
-### For Data Providers (Sellers)
+Review:
 
-**1. List Dataset**
+- Dataset metadata
+- Samples and previews
+- Licensing terms
+- Provenance information
+- Quality information
+- Delivery options
 
-* Upload data and add its description
-* Set pricing and license type
-* Platform verifies and processes
+### 3. Source
 
-**2. Automatic Exposure**
+Purchase existing datasets or request Opendatabay to source data requirements from verified providers.
 
-* Instantly discoverable by all major LLMs
-* Indexed by search engines
-* Featured in platform search results
+For complex requirements, Opendatabay may work with multiple suitable providers to identify the best available supply.
 
-**3. Get Paid**
+### 4. License
 
-* Tiered commission: 5-30% based on sale price
-* Payments within 30 days
-* Transparent transaction records
+Acquire the rights required for the intended AI use, including training, fine-tuning, evaluation and commercial AI applications where permitted by the applicable licence.
 
-***
+---
 
-## Where Opendatabay Stands
+# For Data Providers (Sellers)
 
-**Opendatabay is the marketplace infrastructure in the middle:**
+## 1. List Dataset
 
-Data Providers (Sellers) → Opendatabay (Marketplace) → AI Developers (Buyers)
+Providers can list data products with:
 
-## What Makes Us Different
+- Dataset descriptions
+- Metadata
+- Samples or previews
+- Licensing information
+- Pricing information
 
-* **AI-First**: 100% focused on AI training data, not general data
-* **Instant Access**: No weeks of negotiation, purchase and download in seconds
-* **LLM Discovery**: First marketplace with automatic LLM exposure
-* **Legal Certainty**: Standardised AI licenses eliminate risk
+Opendatabay does not require providers to upload or transfer the underlying dataset to list a product.
 
-***
+---
 
-## Who Benefits
+## 2. Maintain Control of Your Data
 
-| Role               | Benefit                                          |
-| ------------------ | ------------------------------------------------ |
-| **AI Startups**    | Fast access to training data without legal teams |
-| **Researchers**    | Affordable datasets for academic projects        |
-| **Enterprises**    | Compliant data for production AI systems         |
-| **Data Owners**    | Monetise datasets with global reach              |
-| **LLM Developers** | Domain-specific fine-tuning data instantly       |
+Opendatabay is a marketplace and commercial brokerage platform, not a data warehouse.
 
-***
+Providers retain control and custody of their underlying datasets.
 
-## Our Mission
+For marketplace discovery, Opendatabay typically works with:
 
-Our mission is to serve both humans and machines with the highest-quality AI training data, while enabling data providers to securely monetise their work.
+- Dataset metadata
+- Product descriptions
+- Licensing information
+- Samples or previews
 
-We're building the infrastructure layer for responsible AI development, making AI data discovery and access as seamless as shopping on Amazon.
+Opendatabay does not need to receive, store, copy or redistribute the underlying dataset.
+
+---
+
+## 3. Direct Delivery to Buyers
+
+When a transaction takes place, the Data Provider can deliver the dataset directly to the approved customer environment.
+
+Examples include:
+
+- Customer cloud storage
+- Approved S3 buckets
+- Secure data environments
+- Other agreed delivery methods
+
+Opendatabay can facilitate the commercial transaction and licensing process without taking custody of the underlying data.
+
+This allows providers to access new AI buyers while maintaining control over their intellectual property and data assets.
+
+---
+
+## 4. Get Paid
+
+Providers receive payment after completed transactions, less the applicable Opendatabay platform fee.
+
+Opendatabay applies a transparent commission structure based on the transaction value.
+
+---
+
+# Where Opendatabay Sits
+
+Opendatabay sits between **AI demand and data supply**.
+
+AI Labs / Enterprises
+      ↓
+Opendatabay
+      ↓
+Verified Data Providers
+
+The supply chain may also include other organisations such as:
+
+- Procurement partners
+- Data companies
+- Data collection companies
+- Labelling companies
+- Other approved intermediaries
+
+Opendatabay operates as the marketplace and commercial brokerage layer connecting demand with suitable supply.
+
+---
+
+# What Makes Opendatabay Different
+
+## Demand Intelligence
+
+We see what AI companies search for, request, sample and buy.
+
+This creates a demand signal that helps identify which datasets are needed by the market.
+
+## Trust Infrastructure
+
+Provider verification, provenance analysis and dataset trust scoring help buyers evaluate data before licensing.
+
+## Marketplace + Brokerage
+
+Opendatabay combines marketplace discovery with commercial sourcing.
+
+Buyers can discover existing products or submit requirements for data that is not currently listed.
+
+## Provider-Controlled Delivery
+
+Unlike platforms that require providers to transfer their datasets into third-party systems, Opendatabay does not need custody of the underlying data.
+
+Providers remain in control of their datasets.
+
+Opendatabay works with the information required for discovery and evaluation, while the actual data delivery can happen directly between the provider and approved buyer.
+
+## Multiple Supply Sources
+
+A single requirement may be fulfilled by one provider or multiple providers.
+
+Opendatabay can compare and coordinate suitable supply across its verified provider network.
+
+## Legal AI Data
+
+Our focus is licensed data with clear rights for AI use rather than scraped or unclear-provenance datasets.
+
+---
+
+# The Opendatabay Marketplace Flow
+
+AI company searches for data
+      ↓
+Requirement submitted or discovered
+      ↓
+Opendatabay identifies suitable providers
+      ↓
+Data availability, licensing and pricing evaluated
+      ↓
+Commercial agreement completed
+      ↓
+Provider delivers data directly to approved buyer environment
+      ↓
+AI company receives licensed data
+
+---
+
+# Our Mission
+
+We are building the infrastructure that connects **AI demand with the world's data supply**.
+
+Our goal is to make discovering, sourcing, verifying and licensing AI training data faster, safer and more accessible.
+
+Opendatabay is building the marketplace infrastructure for the next generation of AI data.
