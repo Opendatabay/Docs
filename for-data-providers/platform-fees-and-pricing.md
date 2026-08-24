@@ -38,8 +38,6 @@ Visit our [Platform Fee Calculator](https://opendatabay.com/legal/fees#calculato
 </iframe>
 
 
-The applicable rate is rounded to a maximum of **two decimal places**.
-
 ### Examples
 
 **Example 1:** Selling a dataset for £2,500 → Opendatabay fee is 23.75% (£593.75) and the seller receives £1,906.25.
