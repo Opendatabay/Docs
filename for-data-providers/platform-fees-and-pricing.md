@@ -29,6 +29,14 @@ For transaction values within a range, the applicable commission rate decreases 
 
 Visit our [Platform Fee Calculator](https://opendatabay.com/legal/fees#calculator) to see exactly what you'll receive.
 
+<iframe 
+  src="https://opendatabay.com/embed/calculator" 
+  width="100%" 
+  height="700" 
+  frameborder="0"
+  title="Platform Fee Calculator">
+</iframe>
+
 
 The applicable rate is rounded to a maximum of **two decimal places**.
 
