@@ -1,6 +1,8 @@
 ---
+keywords: >-
+  Opendatabay, Platform Fees, Pricing, Commission, Data Provider, Listing Fees,
+  Payment Terms, Seller Fees
 description: Opendatabay Marketplace - Platform Fees and Pricing Structure
-keywords: Opendatabay, Platform Fees, Pricing, Commission, Data Provider, Listing Fees, Payment Terms, Seller Fees
 ---
 
 # Platform Fees and Pricing
@@ -15,28 +17,13 @@ The applicable commission is calculated based on the value of each individual tr
 
 ### Platform Fee Structure
 
-| Sale Price | Opendatabay Fee | Seller Receives |
-|------------|-----------------|-----------------|
-| £1 - £100 | 30% | 70% |
-| £101 - £1,000 | 30% → 25% | 70% → 75% |
-| £1,001 - £10,000 | 25% → 20% | 75% → 80% |
-| £10,001 - £25,000 | 20% → 15% | 80% → 85% |
-| £25,001 - £50,000 | 15% → 10% | 85% → 90% |
-| £50,001 - £250,000 | 10% → 5% | 90% → 95% |
-| £250,001 and above | 5% | 95% |
+<table data-search="false"><thead><tr><th>Sale Price</th><th>Opendatabay Fee</th><th>Seller Receives</th></tr></thead><tbody><tr><td>£1 - £100</td><td>30%</td><td>70%</td></tr><tr><td>£101 - £1,000</td><td>30% → 25%</td><td>70% → 75%</td></tr><tr><td>£1,001 - £10,000</td><td>25% → 20%</td><td>75% → 80%</td></tr><tr><td>£10,001 - £25,000</td><td>20% → 15%</td><td>80% → 85%</td></tr><tr><td>£25,001 - £50,000</td><td>15% → 10%</td><td>85% → 90%</td></tr><tr><td>£50,001 - £250,000</td><td>10% → 5%</td><td>90% → 95%</td></tr><tr><td>£250,001 and above</td><td>5%</td><td>95%</td></tr></tbody></table>
 
 For transaction values within a range, the applicable commission rate decreases progressively between the stated rates. The exact fee is calculated automatically when the Data Provider sets the sale price.
 
 Visit our [Platform Fee Calculator](https://opendatabay.com/legal/fees#calculator) to see exactly what you'll receive.
 
-<iframe 
-  src="https://opendatabay.com/embed/calculator" 
-  width="100%" 
-  height="700" 
-  frameborder="0"
-  title="Platform Fee Calculator">
-</iframe>
-
+{% embed url="https://opendatabay.com/embed/calculator" %}
 
 ### Examples
 
@@ -54,7 +41,7 @@ Visit our [Platform Fee Calculator](https://opendatabay.com/legal/fees#calculato
 
 The Opendatabay listing interface displays the applicable fee, fee amount and expected seller payout before a Data Provider publishes or updates a product.
 
----
+***
 
 ## Payment Terms
 
@@ -78,7 +65,7 @@ In case of a dispute or refund request, payment may be withheld until the issue 
 
 The Data Provider is responsible for providing **accurate payment details**. Opendatabay is not liable for payments sent to incorrect details.
 
----
+***
 
 ## Fee Updates
 
@@ -86,13 +73,13 @@ Opendatabay reserves the right to update commission rates or fees. Data Provider
 
 Where a specific Data Product has an agreed fee structure under an existing listing or separate written agreement, that agreed structure will apply to the relevant transaction unless otherwise agreed in writing.
 
----
+***
 
 ## Tax Compliance
 
 The Data Provider is responsible for **declaring and paying any applicable taxes** on earnings from sales through the marketplace, in accordance with local tax regulations.
 
----
+***
 
 ## Anti-Money Laundering (AML) Compliance
 
