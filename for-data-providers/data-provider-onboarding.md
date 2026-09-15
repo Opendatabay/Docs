@@ -27,7 +27,7 @@ While Google and GitHub login options are available, company email ensures faste
 
 ### 2. Complete 3-Step Verification
 
-After registration, you'll complete a self-onboarding process:
+After registration, you'll be asked to complete a self-onboarding process:
 
 #### Step 1: Choose Your Role
 
@@ -44,6 +44,7 @@ Provide:
 * Company registered address
 * Website URL and social media handles
 * Business entity type
+* Business LinkedIn URL
 * Phone number and sales email
 
 **Important:** We currently only accept **registered businesses** (Ltd, LLC, GmbH, etc.). Individual sellers and self-employed providers cannot list data products.
