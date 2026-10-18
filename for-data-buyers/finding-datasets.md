@@ -120,7 +120,7 @@ For personalised assistance, use our **[Ask AI](https://www.opendatabay.com/ask-
 
 **Example queries:**
 - "What's the difference between General and Commercial AI licenses?"
-- "Show me image datasets under £500 for computer vision"
+- "Show me image datasets under $500 for computer vision"
 - "Which dataset is best for training a customer churn prediction model?"
 
 ---

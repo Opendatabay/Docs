@@ -112,6 +112,6 @@ Click on your listing and select List For Sale<br>
 Confirm that you have the right to list and sell data\
 Agree to the listing terms and conditions\
 Confirm that you are familiar with platform listing fees and charges\
-Set the price in GBP and list your product for sale.<br>
+Set the price in USD and list your product for sale.<br>
 
 By following these steps, you will create a detailed, visually appealing, and professional data product page that attracts buyers and facilitates smooth transactions on Opendatabay.

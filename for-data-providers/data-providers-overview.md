@@ -22,6 +22,6 @@ Additionally, providers offer contact options for assistance, licensing inquirie
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt="Data Products"><figcaption><p>Listed Data Products</p></figcaption></figure>
 
-At the bottom of the data providers page, buyers can explore their data products, also known as Data Products. These product cards display essential details, including data product name, a brief description, category, type of purchase (e.g., one-off purchase, subscription, API), format (e.g., CSV), size, region (e.g., global), version information, and price in GBP.
+At the bottom of the data providers page, buyers can explore their data products, also known as Data Products. These product cards display essential details, including data product name, a brief description, category, type of purchase (e.g., one-off purchase, subscription, API), format (e.g., CSV), size, region (e.g., global), version information, and price in USD.
 
 To learn more on how to set an appealing data provider profile, go to [profile-setup.md](profile-setup.md "mention")
