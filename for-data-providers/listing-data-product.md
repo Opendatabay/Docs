@@ -19,11 +19,11 @@ To effectively create your data product listing page on Opendatabay, ensure all 
 
     ````
     ```xml
-    Uncategorised
+    Robotics Data
     Synthetic Data
     AI/ML Training & NLP Data
     Healthcare Data
-    Financial Data
+    Software Engineering & Code Data
     Web & Social Media Data
     Consumer & Product Data
     Science & Research Data
